@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MyGro
+
+  Created by Emil Sandström on 2017-09-06.
+  Copyright © 2017 Emil Sandström. All rights reserved.
+*/
+
+"SEARCH" = "Sök";
+"EXPLANATION" = "Beskrivning";
+"FACT" = "Fakta";
+"TIPS" = "Odlingstips";
+"FEATURED_SEED_TITLE" = "Frökollektion 2018";
+"TYPE" = "Typ";
+"HEIGHT" = "Höjd";
+"POSITION" = "Position";
+"TIME" = "Tid";
+"DEPTH" = "Djup";
+"FLOWER_DISTANCE" = "Plantavstånd";
+"ROW_DISTANCE" = "Radavstånd";
+"HARVEST_TIME" = "Skörd";

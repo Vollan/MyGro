@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Locksmith (3.0.0)
+  - SnapKit (3.2.0)
+  - SwiftyAttributes (3.1.0)
+  - TPKeyboardAvoiding (1.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - AlamofireImage (~> 3.2.0)
+  - Locksmith (~> 3.0.0)
+  - SnapKit (~> 3.2.0)
+  - SwiftyAttributes (~> 3.1.0)
+  - TPKeyboardAvoiding (~> 1.3.1)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Locksmith: 310b4cc5031af5728bf4db5d4de547a5100c6a3b
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftyAttributes: f337a324cd21f1b18782ab85d3478ccae73f7593
+  TPKeyboardAvoiding: 0d6af20e95e2850f4c621841225b59ec7d8dd852
+
+PODFILE CHECKSUM: 431e7c12f6a4a03dc2b8c7cd50ff87b887b0ff94
+
+COCOAPODS: 1.3.1

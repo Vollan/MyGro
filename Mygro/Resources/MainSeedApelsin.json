@@ -1,0 +1,25 @@
+{
+    "Seeds": [
+              {
+              "id": 21,
+              "name": "BlodApelsin",
+              "picture": "",
+              },
+              {
+              "id": 22,
+              "name": "Orange apelsin",
+              "picture": "",
+              },
+              {
+              "id": 23,
+              "name": "Grön apelsin",
+              "picture": "",
+              "is_main": false
+              },
+              {
+              "id": 24,
+              "name": "clementin, wait what?",
+              "picture": "",
+              }
+              ]
+}

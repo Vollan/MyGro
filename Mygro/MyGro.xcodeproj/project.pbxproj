@@ -1,0 +1,1010 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B76BE3D86002D4E96326202 /* Pods_MyGroTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 229D30BAD06289B895D3238D /* Pods_MyGroTests.framework */; };
+		3F6753D1D783C0F229E52B0F /* Pods_MyGro.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DE52BE9A0B6FA92930F0252 /* Pods_MyGro.framework */; };
+		A9106BA21F665AE0006C2D3B /* HomeSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9106BA11F665AE0006C2D3B /* HomeSearchView.swift */; };
+		A9106BA41F665CDF006C2D3B /* SeedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9106BA31F665CDF006C2D3B /* SeedTableViewCell.swift */; };
+		A9106BA61F665E81006C2D3B /* Seed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9106BA51F665E81006C2D3B /* Seed.swift */; };
+		A91FA16F1F4D7405005F1A6E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91FA16E1F4D7405005F1A6E /* AppDelegate.swift */; };
+		A91FA1711F4D7405005F1A6E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91FA1701F4D7405005F1A6E /* ViewController.swift */; };
+		A91FA1741F4D7405005F1A6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A91FA1721F4D7405005F1A6E /* Main.storyboard */; };
+		A91FA1761F4D7405005F1A6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A91FA1751F4D7405005F1A6E /* Assets.xcassets */; };
+		A91FA1791F4D7405005F1A6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A91FA1771F4D7405005F1A6E /* LaunchScreen.storyboard */; };
+		A91FA1841F4D7405005F1A6E /* MyGroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91FA1831F4D7405005F1A6E /* MyGroTests.swift */; };
+		A91FA18F1F4D7405005F1A6E /* MyGroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91FA18E1F4D7405005F1A6E /* MyGroUITests.swift */; };
+		A96728E21FF26E4000550736 /* InformationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96728E11FF26E4000550736 /* InformationTableViewCell.swift */; };
+		A96728E61FF26FD600550736 /* FAQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96728E51FF26FD600550736 /* FAQ.swift */; };
+		A96728E81FF2708C00550736 /* FAQData.json in Resources */ = {isa = PBXBuildFile; fileRef = A96728E71FF2708C00550736 /* FAQData.json */; };
+		A96728EA1FF271E800550736 /* HelpManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96728E91FF271E800550736 /* HelpManager.swift */; };
+		A96728EC1FF2752600550736 /* ContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96728EB1FF2752600550736 /* ContactView.swift */; };
+		A96728EE1FF2B87C00550736 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96728ED1FF2B87C00550736 /* FooterView.swift */; };
+		A97E62F71FF4D3BB0063C800 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = A97E62F61FF4D3BB0063C800 /* Reachability.swift */; };
+		A982D2A81F604986008CD571 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A982D2AA1F604986008CD571 /* Localizable.strings */; };
+		A982D2AD1F6049F3008CD571 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A982D2AF1F6049F3008CD571 /* Localizable.strings */; };
+		A989101A1F60335500D202C3 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910191F60335500D202C3 /* Theme.swift */; };
+		A98910261F6033AE00D202C3 /* Reusability+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989101C1F6033AE00D202C3 /* Reusability+extensions.swift */; };
+		A98910271F6033AE00D202C3 /* Storyboard+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989101D1F6033AE00D202C3 /* Storyboard+extensions.swift */; };
+		A98910281F6033AE00D202C3 /* String+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989101E1F6033AE00D202C3 /* String+extensions.swift */; };
+		A98910291F6033AE00D202C3 /* UIAlertController+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989101F1F6033AE00D202C3 /* UIAlertController+extension.swift */; };
+		A989102A1F6033AE00D202C3 /* UIColor+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910201F6033AE00D202C3 /* UIColor+extensions.swift */; };
+		A989102B1F6033AE00D202C3 /* UIImageView+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910211F6033AE00D202C3 /* UIImageView+extensions.swift */; };
+		A989102C1F6033AE00D202C3 /* UITableViewCell+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910221F6033AE00D202C3 /* UITableViewCell+extensions.swift */; };
+		A989102D1F6033AE00D202C3 /* UITextView+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910231F6033AE00D202C3 /* UITextView+extensions.swift */; };
+		A989102E1F6033AE00D202C3 /* UIViewcontroller+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910241F6033AE00D202C3 /* UIViewcontroller+extensions.swift */; };
+		A98910311F60341E00D202C3 /* StackedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910301F60341E00D202C3 /* StackedViewController.swift */; };
+		A98910341F60351200D202C3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910331F60351200D202C3 /* HomeViewController.swift */; };
+		A98910371F60358900D202C3 /* HomeNewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910361F60358900D202C3 /* HomeNewsView.swift */; };
+		A989103E1F6035B700D202C3 /* BaseTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910391F6035B700D202C3 /* BaseTableView.swift */; };
+		A989103F1F6035B700D202C3 /* BaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989103A1F6035B700D202C3 /* BaseTableViewCell.swift */; };
+		A98910401F6035B700D202C3 /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989103B1F6035B700D202C3 /* BaseView.swift */; };
+		A98910411F6035B700D202C3 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A989103C1F6035B700D202C3 /* CustomTextField.swift */; };
+		A98910511F603C5300D202C3 /* HomeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98910501F603C5300D202C3 /* HomeManager.swift */; };
+		A9BA9CF81F697F3B001CB93F /* FeaturedSeedsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9BA9CF71F697F3B001CB93F /* FeaturedSeedsView.swift */; };
+		A9BA9CFA1F697F9E001CB93F /* HomeFeaturedSeedCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9BA9CF91F697F9E001CB93F /* HomeFeaturedSeedCollectionView.swift */; };
+		A9BA9CFC1F6980A8001CB93F /* FeaturedSeedCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9BA9CFB1F6980A8001CB93F /* FeaturedSeedCollectionViewCell.swift */; };
+		A9DE61CA1F7CCBBC0069F2C5 /* DetailSeeds.json in Resources */ = {isa = PBXBuildFile; fileRef = A9DE61C91F7CCBBC0069F2C5 /* DetailSeeds.json */; };
+		A9EB266E1F67B8A100C6E7D2 /* SeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EB266D1F67B8A100C6E7D2 /* SeedViewController.swift */; };
+		A9EB29731F7D327A00E18ECA /* DetailSeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EB29721F7D327A00E18ECA /* DetailSeed.swift */; };
+		A9EB66861FF26C0C00C45BC0 /* InformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EB66851FF26C0C00C45BC0 /* InformationViewController.swift */; };
+		A9EC16D01F6826E90001E4B6 /* SeedInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC16CF1F6826E90001E4B6 /* SeedInformationView.swift */; };
+		A9EC16D21F6827240001E4B6 /* SeedImageDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC16D11F6827240001E4B6 /* SeedImageDisplayView.swift */; };
+		A9EC16D41F68309D0001E4B6 /* TopLeftLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC16D31F68309D0001E4B6 /* TopLeftLabel.swift */; };
+		A9EC16D61F68FF180001E4B6 /* MainSeedApelsin.json in Resources */ = {isa = PBXBuildFile; fileRef = A9EC16D51F68FF180001E4B6 /* MainSeedApelsin.json */; };
+		A9EC16D81F6900090001E4B6 /* SeedManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC16D71F6900090001E4B6 /* SeedManager.swift */; };
+		A9EC16DB1F6907180001E4B6 /* MainSeedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EC16DA1F6907180001E4B6 /* MainSeedTableViewController.swift */; };
+		A9FE53A71F66DAC700301879 /* Seeds.json in Resources */ = {isa = PBXBuildFile; fileRef = A9FE53A61F66DAC700301879 /* Seeds.json */; };
+		A9FE53A91F66DD1100301879 /* ReadFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9FE53A81F66DD1100301879 /* ReadFile.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A91FA1801F4D7405005F1A6E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A91FA1631F4D7405005F1A6E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A91FA16A1F4D7405005F1A6E;
+			remoteInfo = MyGro;
+		};
+		A91FA18B1F4D7405005F1A6E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A91FA1631F4D7405005F1A6E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A91FA16A1F4D7405005F1A6E;
+			remoteInfo = MyGro;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1B11C6290F44AF6231B852E5 /* Pods-MyGro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGro.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyGro/Pods-MyGro.release.xcconfig"; sourceTree = "<group>"; };
+		229D30BAD06289B895D3238D /* Pods_MyGroTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyGroTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DE52BE9A0B6FA92930F0252 /* Pods_MyGro.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyGro.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		353F76B63899CE289F87FF41 /* Pods-MyGro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGro.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyGro/Pods-MyGro.debug.xcconfig"; sourceTree = "<group>"; };
+		A9106BA11F665AE0006C2D3B /* HomeSearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeSearchView.swift; path = Home/Views/HomeSearchView.swift; sourceTree = "<group>"; };
+		A9106BA31F665CDF006C2D3B /* SeedTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SeedTableViewCell.swift; path = Home/Views/SeedTableViewCell.swift; sourceTree = "<group>"; };
+		A9106BA51F665E81006C2D3B /* Seed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Seed.swift; path = MyGroCore/Models/Seed.swift; sourceTree = "<group>"; };
+		A91FA16B1F4D7405005F1A6E /* MyGro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A91FA16E1F4D7405005F1A6E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A91FA1701F4D7405005F1A6E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A91FA1731F4D7405005F1A6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A91FA1751F4D7405005F1A6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A91FA1781F4D7405005F1A6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A91FA17A1F4D7405005F1A6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A91FA17F1F4D7405005F1A6E /* MyGroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyGroTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A91FA1831F4D7405005F1A6E /* MyGroTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGroTests.swift; sourceTree = "<group>"; };
+		A91FA1851F4D7405005F1A6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A91FA18A1F4D7405005F1A6E /* MyGroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyGroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A91FA18E1F4D7405005F1A6E /* MyGroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGroUITests.swift; sourceTree = "<group>"; };
+		A91FA1901F4D7405005F1A6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A96728E11FF26E4000550736 /* InformationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InformationTableViewCell.swift; path = information/InformationTableViewCell.swift; sourceTree = "<group>"; };
+		A96728E51FF26FD600550736 /* FAQ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = FAQ.swift; path = MyGroCore/Models/FAQ.swift; sourceTree = "<group>"; };
+		A96728E71FF2708C00550736 /* FAQData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = FAQData.json; path = Resources/FAQData.json; sourceTree = "<group>"; };
+		A96728E91FF271E800550736 /* HelpManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HelpManager.swift; path = MyGroCore/Managers/HelpManager.swift; sourceTree = "<group>"; };
+		A96728EB1FF2752600550736 /* ContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContactView.swift; path = information/ContactView.swift; sourceTree = "<group>"; };
+		A96728ED1FF2B87C00550736 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = FooterView.swift; path = Base/FooterView.swift; sourceTree = "<group>"; };
+		A97E62F61FF4D3BB0063C800 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Reachability.swift; path = MyGroCore/Reachability.swift; sourceTree = "<group>"; };
+		A982D2A91F604986008CD571 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A982D2AE1F6049F3008CD571 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A98910171F6032F300D202C3 /* arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = arial.ttf; path = Resources/arial.ttf; sourceTree = "<group>"; };
+		A98910191F60335500D202C3 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Theme.swift; path = Theme/Theme.swift; sourceTree = "<group>"; };
+		A989101C1F6033AE00D202C3 /* Reusability+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Reusability+extensions.swift"; path = "Extensions/Reusability+extensions.swift"; sourceTree = "<group>"; };
+		A989101D1F6033AE00D202C3 /* Storyboard+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Storyboard+extensions.swift"; path = "Extensions/Storyboard+extensions.swift"; sourceTree = "<group>"; };
+		A989101E1F6033AE00D202C3 /* String+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+extensions.swift"; path = "Extensions/String+extensions.swift"; sourceTree = "<group>"; };
+		A989101F1F6033AE00D202C3 /* UIAlertController+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIAlertController+extension.swift"; path = "Extensions/UIAlertController+extension.swift"; sourceTree = "<group>"; };
+		A98910201F6033AE00D202C3 /* UIColor+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIColor+extensions.swift"; path = "Extensions/UIColor+extensions.swift"; sourceTree = "<group>"; };
+		A98910211F6033AE00D202C3 /* UIImageView+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIImageView+extensions.swift"; path = "Extensions/UIImageView+extensions.swift"; sourceTree = "<group>"; };
+		A98910221F6033AE00D202C3 /* UITableViewCell+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UITableViewCell+extensions.swift"; path = "Extensions/UITableViewCell+extensions.swift"; sourceTree = "<group>"; };
+		A98910231F6033AE00D202C3 /* UITextView+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UITextView+extensions.swift"; path = "Extensions/UITextView+extensions.swift"; sourceTree = "<group>"; };
+		A98910241F6033AE00D202C3 /* UIViewcontroller+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIViewcontroller+extensions.swift"; path = "Extensions/UIViewcontroller+extensions.swift"; sourceTree = "<group>"; };
+		A98910301F60341E00D202C3 /* StackedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StackedViewController.swift; path = Base/StackedViewController.swift; sourceTree = "<group>"; };
+		A98910331F60351200D202C3 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Home/HomeViewController.swift; sourceTree = "<group>"; };
+		A98910361F60358900D202C3 /* HomeNewsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeNewsView.swift; path = Home/Views/HomeNewsView.swift; sourceTree = "<group>"; };
+		A98910391F6035B700D202C3 /* BaseTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseTableView.swift; path = Base/BaseTableView.swift; sourceTree = "<group>"; };
+		A989103A1F6035B700D202C3 /* BaseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseTableViewCell.swift; path = Base/BaseTableViewCell.swift; sourceTree = "<group>"; };
+		A989103B1F6035B700D202C3 /* BaseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseView.swift; path = Base/BaseView.swift; sourceTree = "<group>"; };
+		A989103C1F6035B700D202C3 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomTextField.swift; path = Base/CustomTextField.swift; sourceTree = "<group>"; };
+		A98910501F603C5300D202C3 /* HomeManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeManager.swift; path = MyGroCore/Managers/HomeManager.swift; sourceTree = "<group>"; };
+		A9BA9CF71F697F3B001CB93F /* FeaturedSeedsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeaturedSeedsView.swift; path = Home/Views/FeaturedSeedsView.swift; sourceTree = "<group>"; };
+		A9BA9CF91F697F9E001CB93F /* HomeFeaturedSeedCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeFeaturedSeedCollectionView.swift; path = Home/Views/HomeFeaturedSeedCollectionView.swift; sourceTree = "<group>"; };
+		A9BA9CFB1F6980A8001CB93F /* FeaturedSeedCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeaturedSeedCollectionViewCell.swift; path = Home/Views/FeaturedSeedCollectionViewCell.swift; sourceTree = "<group>"; };
+		A9DE61C91F7CCBBC0069F2C5 /* DetailSeeds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = DetailSeeds.json; path = Resources/DetailSeeds.json; sourceTree = "<group>"; };
+		A9EB266D1F67B8A100C6E7D2 /* SeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SeedViewController.swift; path = Seed/SeedViewController.swift; sourceTree = "<group>"; };
+		A9EB29721F7D327A00E18ECA /* DetailSeed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailSeed.swift; path = MyGroCore/Models/DetailSeed.swift; sourceTree = "<group>"; };
+		A9EB66851FF26C0C00C45BC0 /* InformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InformationViewController.swift; path = information/InformationViewController.swift; sourceTree = "<group>"; };
+		A9EC16CF1F6826E90001E4B6 /* SeedInformationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SeedInformationView.swift; path = Seed/Views/SeedInformationView.swift; sourceTree = "<group>"; };
+		A9EC16D11F6827240001E4B6 /* SeedImageDisplayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SeedImageDisplayView.swift; path = Seed/Views/SeedImageDisplayView.swift; sourceTree = "<group>"; };
+		A9EC16D31F68309D0001E4B6 /* TopLeftLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TopLeftLabel.swift; path = Base/TopLeftLabel.swift; sourceTree = "<group>"; };
+		A9EC16D51F68FF180001E4B6 /* MainSeedApelsin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = MainSeedApelsin.json; path = Resources/MainSeedApelsin.json; sourceTree = "<group>"; };
+		A9EC16D71F6900090001E4B6 /* SeedManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SeedManager.swift; path = MyGroCore/Managers/SeedManager.swift; sourceTree = "<group>"; };
+		A9EC16DA1F6907180001E4B6 /* MainSeedTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainSeedTableViewController.swift; path = MainSeed/MainSeedTableViewController.swift; sourceTree = "<group>"; };
+		A9FE53A61F66DAC700301879 /* Seeds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Seeds.json; path = Resources/Seeds.json; sourceTree = "<group>"; };
+		A9FE53A81F66DD1100301879 /* ReadFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ReadFile.swift; path = MyGroCore/ReadFile.swift; sourceTree = "<group>"; };
+		E32806C868B60BA283496453 /* Pods-MyGroTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGroTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyGroTests/Pods-MyGroTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E6B5245B38E6B75C398FF87E /* Pods-MyGroTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGroTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyGroTests/Pods-MyGroTests.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A91FA1681F4D7405005F1A6E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F6753D1D783C0F229E52B0F /* Pods_MyGro.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA17C1F4D7405005F1A6E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B76BE3D86002D4E96326202 /* Pods_MyGroTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA1871F4D7405005F1A6E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		479CB87550765AD8DB60CA73 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2DE52BE9A0B6FA92930F0252 /* Pods_MyGro.framework */,
+				229D30BAD06289B895D3238D /* Pods_MyGroTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		94A0FB063D2AAF549FB8BF03 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				353F76B63899CE289F87FF41 /* Pods-MyGro.debug.xcconfig */,
+				1B11C6290F44AF6231B852E5 /* Pods-MyGro.release.xcconfig */,
+				E32806C868B60BA283496453 /* Pods-MyGroTests.debug.xcconfig */,
+				E6B5245B38E6B75C398FF87E /* Pods-MyGroTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A91FA1621F4D7405005F1A6E = {
+			isa = PBXGroup;
+			children = (
+				A98910421F6035DF00D202C3 /* MyGroCore */,
+				A98910161F6032A400D202C3 /* Resources */,
+				A91FA16D1F4D7405005F1A6E /* MyGro */,
+				A91FA1821F4D7405005F1A6E /* MyGroTests */,
+				A91FA18D1F4D7405005F1A6E /* MyGroUITests */,
+				A91FA16C1F4D7405005F1A6E /* Products */,
+				94A0FB063D2AAF549FB8BF03 /* Pods */,
+				479CB87550765AD8DB60CA73 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A91FA16C1F4D7405005F1A6E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A91FA16B1F4D7405005F1A6E /* MyGro.app */,
+				A91FA17F1F4D7405005F1A6E /* MyGroTests.xctest */,
+				A91FA18A1F4D7405005F1A6E /* MyGroUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A91FA16D1F4D7405005F1A6E /* MyGro */ = {
+			isa = PBXGroup;
+			children = (
+				A9EB66841FF26BF400C45BC0 /* Information */,
+				A9EC16D91F6906F70001E4B6 /* MainSeed */,
+				A9EB266C1F67B88C00C6E7D2 /* Seed */,
+				A98910321F6034E700D202C3 /* Home */,
+				A989101B1F60337300D202C3 /* Extensions */,
+				A98910181F60334100D202C3 /* Theme */,
+				A91FA19C1F4D7B6D005F1A6E /* Base */,
+				A91FA16E1F4D7405005F1A6E /* AppDelegate.swift */,
+				A91FA1701F4D7405005F1A6E /* ViewController.swift */,
+				A91FA1721F4D7405005F1A6E /* Main.storyboard */,
+				A91FA1751F4D7405005F1A6E /* Assets.xcassets */,
+				A91FA1771F4D7405005F1A6E /* LaunchScreen.storyboard */,
+				A91FA17A1F4D7405005F1A6E /* Info.plist */,
+			);
+			path = MyGro;
+			sourceTree = "<group>";
+		};
+		A91FA1821F4D7405005F1A6E /* MyGroTests */ = {
+			isa = PBXGroup;
+			children = (
+				A91FA1831F4D7405005F1A6E /* MyGroTests.swift */,
+				A91FA1851F4D7405005F1A6E /* Info.plist */,
+			);
+			path = MyGroTests;
+			sourceTree = "<group>";
+		};
+		A91FA18D1F4D7405005F1A6E /* MyGroUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A91FA18E1F4D7405005F1A6E /* MyGroUITests.swift */,
+				A91FA1901F4D7405005F1A6E /* Info.plist */,
+			);
+			path = MyGroUITests;
+			sourceTree = "<group>";
+		};
+		A91FA19C1F4D7B6D005F1A6E /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				A98910391F6035B700D202C3 /* BaseTableView.swift */,
+				A989103A1F6035B700D202C3 /* BaseTableViewCell.swift */,
+				A989103B1F6035B700D202C3 /* BaseView.swift */,
+				A989103C1F6035B700D202C3 /* CustomTextField.swift */,
+				A98910301F60341E00D202C3 /* StackedViewController.swift */,
+				A9EC16D31F68309D0001E4B6 /* TopLeftLabel.swift */,
+				A96728ED1FF2B87C00550736 /* FooterView.swift */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
+		A98910161F6032A400D202C3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A98910171F6032F300D202C3 /* arial.ttf */,
+				A982D2AA1F604986008CD571 /* Localizable.strings */,
+				A982D2AF1F6049F3008CD571 /* Localizable.strings */,
+				A9FE53A61F66DAC700301879 /* Seeds.json */,
+				A9EC16D51F68FF180001E4B6 /* MainSeedApelsin.json */,
+				A9DE61C91F7CCBBC0069F2C5 /* DetailSeeds.json */,
+				A96728E71FF2708C00550736 /* FAQData.json */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		A98910181F60334100D202C3 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				A98910191F60335500D202C3 /* Theme.swift */,
+			);
+			name = Theme;
+			sourceTree = "<group>";
+		};
+		A989101B1F60337300D202C3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A989101C1F6033AE00D202C3 /* Reusability+extensions.swift */,
+				A989101D1F6033AE00D202C3 /* Storyboard+extensions.swift */,
+				A989101E1F6033AE00D202C3 /* String+extensions.swift */,
+				A989101F1F6033AE00D202C3 /* UIAlertController+extension.swift */,
+				A98910201F6033AE00D202C3 /* UIColor+extensions.swift */,
+				A98910211F6033AE00D202C3 /* UIImageView+extensions.swift */,
+				A98910221F6033AE00D202C3 /* UITableViewCell+extensions.swift */,
+				A98910231F6033AE00D202C3 /* UITextView+extensions.swift */,
+				A98910241F6033AE00D202C3 /* UIViewcontroller+extensions.swift */,
+			);
+			name = Extensions;
+			sourceTree = "<group>";
+		};
+		A98910321F6034E700D202C3 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A98910351F60356B00D202C3 /* Views */,
+				A98910331F60351200D202C3 /* HomeViewController.swift */,
+			);
+			name = Home;
+			sourceTree = "<group>";
+		};
+		A98910351F60356B00D202C3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A98910361F60358900D202C3 /* HomeNewsView.swift */,
+				A9106BA11F665AE0006C2D3B /* HomeSearchView.swift */,
+				A9106BA31F665CDF006C2D3B /* SeedTableViewCell.swift */,
+				A9BA9CF71F697F3B001CB93F /* FeaturedSeedsView.swift */,
+				A9BA9CF91F697F9E001CB93F /* HomeFeaturedSeedCollectionView.swift */,
+				A9BA9CFB1F6980A8001CB93F /* FeaturedSeedCollectionViewCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		A98910421F6035DF00D202C3 /* MyGroCore */ = {
+			isa = PBXGroup;
+			children = (
+				A989104F1F603C2400D202C3 /* Managers */,
+				A989104A1F60382B00D202C3 /* Models */,
+				A9FE53A81F66DD1100301879 /* ReadFile.swift */,
+				A97E62F61FF4D3BB0063C800 /* Reachability.swift */,
+			);
+			name = MyGroCore;
+			sourceTree = "<group>";
+		};
+		A989104A1F60382B00D202C3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A9106BA51F665E81006C2D3B /* Seed.swift */,
+				A9EB29721F7D327A00E18ECA /* DetailSeed.swift */,
+				A96728E51FF26FD600550736 /* FAQ.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		A989104F1F603C2400D202C3 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				A98910501F603C5300D202C3 /* HomeManager.swift */,
+				A9EC16D71F6900090001E4B6 /* SeedManager.swift */,
+				A96728E91FF271E800550736 /* HelpManager.swift */,
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		A9EB266C1F67B88C00C6E7D2 /* Seed */ = {
+			isa = PBXGroup;
+			children = (
+				A9EB266F1F67BD5700C6E7D2 /* Views */,
+				A9EB266D1F67B8A100C6E7D2 /* SeedViewController.swift */,
+			);
+			name = Seed;
+			sourceTree = "<group>";
+		};
+		A9EB266F1F67BD5700C6E7D2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A9EC16D11F6827240001E4B6 /* SeedImageDisplayView.swift */,
+				A9EC16CF1F6826E90001E4B6 /* SeedInformationView.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		A9EB66841FF26BF400C45BC0 /* Information */ = {
+			isa = PBXGroup;
+			children = (
+				A9EB66851FF26C0C00C45BC0 /* InformationViewController.swift */,
+				A96728E11FF26E4000550736 /* InformationTableViewCell.swift */,
+				A96728EB1FF2752600550736 /* ContactView.swift */,
+			);
+			name = Information;
+			sourceTree = "<group>";
+		};
+		A9EC16D91F6906F70001E4B6 /* MainSeed */ = {
+			isa = PBXGroup;
+			children = (
+				A9EC16DA1F6907180001E4B6 /* MainSeedTableViewController.swift */,
+			);
+			name = MainSeed;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A91FA16A1F4D7405005F1A6E /* MyGro */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A91FA1931F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGro" */;
+			buildPhases = (
+				C74A7182C1ACB8155CDFBB93 /* [CP] Check Pods Manifest.lock */,
+				A91FA1671F4D7405005F1A6E /* Sources */,
+				A91FA1681F4D7405005F1A6E /* Frameworks */,
+				A91FA1691F4D7405005F1A6E /* Resources */,
+				605CD036D2AB0066C7605796 /* [CP] Embed Pods Frameworks */,
+				94F0858638DB829447005BB1 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyGro;
+			productName = MyGro;
+			productReference = A91FA16B1F4D7405005F1A6E /* MyGro.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A91FA17E1F4D7405005F1A6E /* MyGroTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A91FA1961F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGroTests" */;
+			buildPhases = (
+				1B8FDB1E612564610229D13B /* [CP] Check Pods Manifest.lock */,
+				A91FA17B1F4D7405005F1A6E /* Sources */,
+				A91FA17C1F4D7405005F1A6E /* Frameworks */,
+				A91FA17D1F4D7405005F1A6E /* Resources */,
+				422D1F195AB311FCF72ECD09 /* [CP] Embed Pods Frameworks */,
+				841A6D69D4B475370D5B9A17 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A91FA1811F4D7405005F1A6E /* PBXTargetDependency */,
+			);
+			name = MyGroTests;
+			productName = MyGroTests;
+			productReference = A91FA17F1F4D7405005F1A6E /* MyGroTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A91FA1891F4D7405005F1A6E /* MyGroUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A91FA1991F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGroUITests" */;
+			buildPhases = (
+				A91FA1861F4D7405005F1A6E /* Sources */,
+				A91FA1871F4D7405005F1A6E /* Frameworks */,
+				A91FA1881F4D7405005F1A6E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A91FA18C1F4D7405005F1A6E /* PBXTargetDependency */,
+			);
+			name = MyGroUITests;
+			productName = MyGroUITests;
+			productReference = A91FA18A1F4D7405005F1A6E /* MyGroUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A91FA1631F4D7405005F1A6E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Emil Sandström";
+				TargetAttributes = {
+					A91FA16A1F4D7405005F1A6E = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = EDV422TNJH;
+						ProvisioningStyle = Manual;
+					};
+					A91FA17E1F4D7405005F1A6E = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = A91FA16A1F4D7405005F1A6E;
+					};
+					A91FA1891F4D7405005F1A6E = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = A91FA16A1F4D7405005F1A6E;
+					};
+				};
+			};
+			buildConfigurationList = A91FA1661F4D7405005F1A6E /* Build configuration list for PBXProject "MyGro" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A91FA1621F4D7405005F1A6E;
+			productRefGroup = A91FA16C1F4D7405005F1A6E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A91FA16A1F4D7405005F1A6E /* MyGro */,
+				A91FA17E1F4D7405005F1A6E /* MyGroTests */,
+				A91FA1891F4D7405005F1A6E /* MyGroUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A91FA1691F4D7405005F1A6E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9FE53A71F66DAC700301879 /* Seeds.json in Resources */,
+				A982D2AD1F6049F3008CD571 /* Localizable.strings in Resources */,
+				A91FA1791F4D7405005F1A6E /* LaunchScreen.storyboard in Resources */,
+				A96728E81FF2708C00550736 /* FAQData.json in Resources */,
+				A982D2A81F604986008CD571 /* Localizable.strings in Resources */,
+				A9EC16D61F68FF180001E4B6 /* MainSeedApelsin.json in Resources */,
+				A91FA1761F4D7405005F1A6E /* Assets.xcassets in Resources */,
+				A91FA1741F4D7405005F1A6E /* Main.storyboard in Resources */,
+				A9DE61CA1F7CCBBC0069F2C5 /* DetailSeeds.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA17D1F4D7405005F1A6E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA1881F4D7405005F1A6E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1B8FDB1E612564610229D13B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyGroTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		422D1F195AB311FCF72ECD09 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MyGroTests/Pods-MyGroTests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/TPKeyboardAvoiding/TPKeyboardAvoiding.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TPKeyboardAvoiding.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyGroTests/Pods-MyGroTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		605CD036D2AB0066C7605796 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MyGro/Pods-MyGro-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/Locksmith/Locksmith.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyAttributes/SwiftyAttributes.framework",
+				"${BUILT_PRODUCTS_DIR}/TPKeyboardAvoiding/TPKeyboardAvoiding.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Locksmith.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyAttributes.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TPKeyboardAvoiding.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyGro/Pods-MyGro-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		841A6D69D4B475370D5B9A17 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyGroTests/Pods-MyGroTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		94F0858638DB829447005BB1 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyGro/Pods-MyGro-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C74A7182C1ACB8155CDFBB93 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyGro-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A91FA1671F4D7405005F1A6E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A989102C1F6033AE00D202C3 /* UITableViewCell+extensions.swift in Sources */,
+				A96728EE1FF2B87C00550736 /* FooterView.swift in Sources */,
+				A98910271F6033AE00D202C3 /* Storyboard+extensions.swift in Sources */,
+				A9BA9CF81F697F3B001CB93F /* FeaturedSeedsView.swift in Sources */,
+				A9EC16D41F68309D0001E4B6 /* TopLeftLabel.swift in Sources */,
+				A98910311F60341E00D202C3 /* StackedViewController.swift in Sources */,
+				A98910511F603C5300D202C3 /* HomeManager.swift in Sources */,
+				A98910411F6035B700D202C3 /* CustomTextField.swift in Sources */,
+				A989103F1F6035B700D202C3 /* BaseTableViewCell.swift in Sources */,
+				A98910281F6033AE00D202C3 /* String+extensions.swift in Sources */,
+				A9EC16D21F6827240001E4B6 /* SeedImageDisplayView.swift in Sources */,
+				A96728EA1FF271E800550736 /* HelpManager.swift in Sources */,
+				A9EC16D81F6900090001E4B6 /* SeedManager.swift in Sources */,
+				A96728E21FF26E4000550736 /* InformationTableViewCell.swift in Sources */,
+				A9EB29731F7D327A00E18ECA /* DetailSeed.swift in Sources */,
+				A989102D1F6033AE00D202C3 /* UITextView+extensions.swift in Sources */,
+				A989103E1F6035B700D202C3 /* BaseTableView.swift in Sources */,
+				A98910341F60351200D202C3 /* HomeViewController.swift in Sources */,
+				A9106BA21F665AE0006C2D3B /* HomeSearchView.swift in Sources */,
+				A98910291F6033AE00D202C3 /* UIAlertController+extension.swift in Sources */,
+				A97E62F71FF4D3BB0063C800 /* Reachability.swift in Sources */,
+				A9BA9CFA1F697F9E001CB93F /* HomeFeaturedSeedCollectionView.swift in Sources */,
+				A96728EC1FF2752600550736 /* ContactView.swift in Sources */,
+				A989102E1F6033AE00D202C3 /* UIViewcontroller+extensions.swift in Sources */,
+				A91FA1711F4D7405005F1A6E /* ViewController.swift in Sources */,
+				A9FE53A91F66DD1100301879 /* ReadFile.swift in Sources */,
+				A9106BA61F665E81006C2D3B /* Seed.swift in Sources */,
+				A989102B1F6033AE00D202C3 /* UIImageView+extensions.swift in Sources */,
+				A9EC16D01F6826E90001E4B6 /* SeedInformationView.swift in Sources */,
+				A9BA9CFC1F6980A8001CB93F /* FeaturedSeedCollectionViewCell.swift in Sources */,
+				A9EB266E1F67B8A100C6E7D2 /* SeedViewController.swift in Sources */,
+				A98910261F6033AE00D202C3 /* Reusability+extensions.swift in Sources */,
+				A96728E61FF26FD600550736 /* FAQ.swift in Sources */,
+				A9EC16DB1F6907180001E4B6 /* MainSeedTableViewController.swift in Sources */,
+				A989102A1F6033AE00D202C3 /* UIColor+extensions.swift in Sources */,
+				A989101A1F60335500D202C3 /* Theme.swift in Sources */,
+				A9106BA41F665CDF006C2D3B /* SeedTableViewCell.swift in Sources */,
+				A98910401F6035B700D202C3 /* BaseView.swift in Sources */,
+				A98910371F60358900D202C3 /* HomeNewsView.swift in Sources */,
+				A91FA16F1F4D7405005F1A6E /* AppDelegate.swift in Sources */,
+				A9EB66861FF26C0C00C45BC0 /* InformationViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA17B1F4D7405005F1A6E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A91FA1841F4D7405005F1A6E /* MyGroTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A91FA1861F4D7405005F1A6E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A91FA18F1F4D7405005F1A6E /* MyGroUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A91FA1811F4D7405005F1A6E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A91FA16A1F4D7405005F1A6E /* MyGro */;
+			targetProxy = A91FA1801F4D7405005F1A6E /* PBXContainerItemProxy */;
+		};
+		A91FA18C1F4D7405005F1A6E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A91FA16A1F4D7405005F1A6E /* MyGro */;
+			targetProxy = A91FA18B1F4D7405005F1A6E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A91FA1721F4D7405005F1A6E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A91FA1731F4D7405005F1A6E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A91FA1771F4D7405005F1A6E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A91FA1781F4D7405005F1A6E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A982D2AA1F604986008CD571 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A982D2A91F604986008CD571 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		A982D2AF1F6049F3008CD571 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A982D2AE1F6049F3008CD571 /* Base */,
+			);
+			name = Localizable.strings;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A91FA1911F4D7405005F1A6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Honey Pot Holding AB (EDV422TNJH)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A91FA1921F4D7405005F1A6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Honey Pot Holding AB (EDV422TNJH)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A91FA1941F4D7405005F1A6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 353F76B63899CE289F87FF41 /* Pods-MyGro.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Emil Sandström (79DE5Z7Q7G)";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = EDV422TNJH;
+				INFOPLIST_FILE = MyGro/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mygro.mygro;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b5287df4-44cc-4168-ba06-e1f93c9c387b";
+				PROVISIONING_PROFILE_SPECIFIER = "MyGro Development";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		A91FA1951F4D7405005F1A6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B11C6290F44AF6231B852E5 /* Pods-MyGro.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Honey Pot Holding AB (EDV422TNJH)";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = EDV422TNJH;
+				INFOPLIST_FILE = MyGro/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mygro.mygro;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "23711684-62c2-48b7-bb70-532b2f405564";
+				PROVISIONING_PROFILE_SPECIFIER = "MyGro distribution";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		A91FA1971F4D7405005F1A6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E32806C868B60BA283496453 /* Pods-MyGroTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MyGroTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Wexthuset.MyGroTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyGro.app/MyGro";
+			};
+			name = Debug;
+		};
+		A91FA1981F4D7405005F1A6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6B5245B38E6B75C398FF87E /* Pods-MyGroTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MyGroTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Wexthuset.MyGroTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyGro.app/MyGro";
+			};
+			name = Release;
+		};
+		A91FA19A1F4D7405005F1A6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MyGroUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Wexthuset.MyGroUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = MyGro;
+			};
+			name = Debug;
+		};
+		A91FA19B1F4D7405005F1A6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MyGroUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Wexthuset.MyGroUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = MyGro;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A91FA1661F4D7405005F1A6E /* Build configuration list for PBXProject "MyGro" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A91FA1911F4D7405005F1A6E /* Debug */,
+				A91FA1921F4D7405005F1A6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A91FA1931F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGro" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A91FA1941F4D7405005F1A6E /* Debug */,
+				A91FA1951F4D7405005F1A6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A91FA1961F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGroTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A91FA1971F4D7405005F1A6E /* Debug */,
+				A91FA1981F4D7405005F1A6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A91FA1991F4D7405005F1A6E /* Build configuration list for PBXNativeTarget "MyGroUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A91FA19A1F4D7405005F1A6E /* Debug */,
+				A91FA19B1F4D7405005F1A6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A91FA1631F4D7405005F1A6E /* Project object */;
+}

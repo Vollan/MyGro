@@ -1,0 +1,1080 @@
+{
+    "Seeds": [{
+              "id": 1,
+              "name": "Djungelgurka Mexican Sour Gherkin",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/djungelgurka-mexican-sour-gherkin.jpg",
+              "description": "Kallas även Cucamelon. En smakrik minigurka med tydlig citrussmak. Ger skörd inom ca 75 dagar. Behöver stöd. Odla i kruka utomhus på skyddad plats och †inne på fönsterbrädan eller under växtlampa. Även i hydrokultur",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">100 cm",
+              "position": "Soligt",
+              "time": "Mars-Maj",
+              "depth": "0,5-1,0 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "70-80 dagar"
+              },
+              
+              "gardening_tricks": "Förodlas inomhus mars-maj. Sätt 1-2 frö i 6cm-kruka med såjord i miniväxthus. Helst under växtlampa. Klipp bort en planta om båda gror. Vid fyra blad plantera i 8-10cm-kruka med odlingsjord. Djungelgurka är köldkänslig. Invänta sista nattfrost med marginal innan den sätts ut. Stöd och bind upp plantan. Vattna och gödsla regelbundet. Toppa sidoskott efter 2-3 blad för att öka skörden. Krukodlas ute på skyddad plats eller inomhus."
+              },
+              {
+              "id": 2,
+              "name": "Kattmynta Nepeta Cataria Var Citriodora",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/kattmynta-nepeta-cataria-var-citriodora.jpg",
+              "description": "Oemotståndlig för katter och populär hos pollinerande insekter. Denna sort är en variant med tydligt citrondoftande blad. Får purpurröda och vita blommor. Ger ett välsmakande te. Odlas på friland, i kruka ute och inne eller i hydrokultur.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "50-70 cm",
+              "position": "Sol/halvskugga",
+              "time": "Feb-Maj/Sep-Nov",
+              "depth": "0,5",
+              "flower_distance": "5 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Blomn Jun-Sept"
+              },
+              
+              "gardening_tricks": "Så direkt på friland eller i kruka utomhus tidigt på våren eller sent på hösten i krukor eller brätten med såjord. Kan även förodlas inomhus på fönsterbräda eller under växtlampa året om. Gror ojämnt. Har fröerna inte grott inom en månad kan de placeras i kylskåp 3-4 veckor för att simulera vinter. Även lämplig för odling inomhus i kruka eller i hydrokultur. Perenn upp till växtzon 5."
+              },
+              {
+              "id": 3,
+              "name": "Paparika Gourmet",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/paprika-gourmet.jpg",
+              "description": "Tidigt sort som ger rikligt med gröna till orange frukter 65-85 dagar efter sådd. Kubformade, kraftiga frukter med mild söt smak. Äts färsk. Kan förvaras som konserverad och torkad. Odlas i kruka utomhus eller i växthus. Även i hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "75 cm",
+              "position": "Soligt",
+              "time": "Jan-Apr",
+              "depth": "1,0 cm",
+              "flower_distance": "60 cm",
+              "row_distance": "60 cm",
+              "harvest_time": "70-90 dagar"
+              },
+              "gardening_tricks": "Förodlas inne i 8cm-krukor med såjord i miniväxthus under växtlampa januari-april. Sätt 1-2 frö i krukan. Groningstid 7-10 dagar. Klipp bort en om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Omplantera igen i 12-15cm-kruka innan slutlig utplantering. Gödsla och vattna regelbundet. Krukodla i växthus, på terrass eller balkong i soligt, skyddat läge eller i hydrokultur under växtlampa."
+              },
+              {
+              "id": 4,
+              "name": "Stevia Stevia Rebaudiana",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/stevia-stevia-rebaudiana.jpg",
+              "description": "Sötflockel på svenska. En halv tesked blad motsvarar 2 dl socker. Odla i kruka ute på sommaren och inomhus på vintern. Trivs inte under 10C. Innehåller Steviosid som är 300 gånger sötare än socker, höjer inte blodsockret och innehåller 0 kalorier.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "50 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Maj",
+              "depth": "0-0,5 cm",
+              "flower_distance": "30 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "120 dagar"
+              },
+              "gardening_tricks": "Så 2-3 fröer inomhus på våren i 8cm-kruka i såjord. Täck ej fröerna utan tryck dem lätt mot jorden. Placera i miniväxthus för att hålla jorden fuktig. Fröerna behöver ljus för att gro. Växtbelysning underlättar. Grotid 5-10 dagar. Vid 4-6 blad sätts plantorna var för sig i 10cm-kruka med odlingsjord. Plantera om igen eller sätt i odlingskrukan om rötterna börjar trängas i krukan. Kan odlas på friland sommartid och i†hydrokultur."
+              },
+              {
+              "id": 5,
+              "name": "Smörgåskrasse Lepidium Sativum",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/smorgaskrasse.jpg",
+              "description": "Smörgåskrasse för odling av mikroblad. Odlas inomhus året om för grön kryddning på smörgås, i salladen och som garnityr. Fulla av smak och rik på vitamin C och D. Klar att skörda redan inom 7-10 dagar. Klipp och njut! †Ekologiskt odlat frö.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "4-5 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-1 cm",
+              "flower_distance": "0 cm",
+              "row_distance": "0 cm",
+              "harvest_time": "7-10 dagar"
+              },
+              "gardening_tricks": "Smörgåskrasse odlas inomhus helt utan jord. Täck en tallrik med dubbelt hushållspapper som fuktas ordentligt. Strö krassefrön jämt över fatet och täck med plastfolie eller odla i miniväxthus med genomskinligt lock. Håll pappret fuktat men inte blött hela tiden. Efter 4-5 dagar när fröerna grott placeras odlingen ljust i fönster eller under växtlampa. Skörda genom att klippa nära pappret. Odla i omgångar för kontinuerlig skörd."
+              },
+              {
+              "id": 6,
+              "name": "Grönkål Nero de Toscana",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/gronkal-nero-de-toscana.jpg",
+              "description": "En dekorativ italiensk grönkål med anor från 1885. Kallas även Palmkål. Avlånga, mörka, buckliga blad. Vacker i rabatt. Odlas och används som vanlig grönkål men är något starkare i smak. Odlas på friland eller i kruka utomhus.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "75 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Jul",
+              "depth": "1 cm",
+              "flower_distance": "40-50 cm",
+              "row_distance": "70 cm",
+              "harvest_time": "50-60 dagar"
+              },
+              "gardening_tricks": "Odlas på friland eller i kruka utomhus. Förodlas inomhus 4-6 veckor före utplantering. Sätt 1-2 fröer i 8cm-kruka med såjord i ett miniväxthus. Helst under växtlampa. Klipp bort en planta om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Fortsätt odling under lampa. Plantera ut med 40-70 cm avstånd när risken för nattfrost är över. Skörd 50-60 dagar efter sådd."
+              },
+              {
+              "id": 7,
+              "name": "Broccoli Cezar",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/broccoli-cezar.jpg",
+              "description": "En broccoli som är klar att skörda redan inom 80-90 dagar. Ger en riklig skörd av täta knoppar som kan kokas, stekas eller ätas färsk. Lagras i frysen. Förodlas för bästa resultat. Kan även odlas i kruka utomhus, groddas och odlas i hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "ca 70 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Jun",
+              "depth": "1 cm",
+              "flower_distance": "35-40 cm",
+              "row_distance": "50-60 cm",
+              "harvest_time": "80-90 dagar"
+              },
+              "gardening_tricks": "Odlas på friland eller i kruka utomhus. Förodlas inomhus 4-6 veckor före utplantering. Sätt 1-2 fröer i 8cm-kruka med såjord i ett miniväxthus. Helst under växtlampa. Klipp bort en planta om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Fortsätt odling under lampa. Plantera ut med 35-50 cm avstånd när risken för nattfrost är över. Skörd 80-90 dagar efter sådd. Kan även groddas och odlas i hydrokultur"
+              },
+              {
+              "id": 8,
+              "name": "Brysselkål Dolores F1",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/brysselkal-dolores-F1.jpg",
+              "description": "En tidig sort som tål temperaturer ner till -10 grader. Ljusgröna, smakrika små huvuden som kan kokas, ångas, stekas eller marineras. Lagras frysta. Odlas främst på friland, men kan också odlas i större kruka utomhus. Kan även odlas i hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">100-110 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Maj",
+              "depth": "1 cm",
+              "flower_distance": "60-70 cm",
+              "row_distance": "60-70 cm",
+              "harvest_time": "120-130 dagar"
+              },
+              "gardening_tricks": "Förodlas inomhus 4-6 veckor före utplantering. Sätt 1-2 fröer i 8cm-kruka med såjord i ett miniväxthus. Helst under växtlampa. Klipp bort en planta om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Fortsätt odling under lampa. Plantera ut med 60-70 cm avstånd när risken för nattfrost är över. Växer snabbare om plantan toppas när de första knopparna kommer. Skörd 120-130 dagar efter sådd. Blir godast efter frost. Kan skördas hela vintern."
+              },
+              {
+              "id": 9,
+              "name": "Muskatellsalvia Salvia sclarea",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/muskatellsalvia-salvia-sclarea.jpg",
+              "description": "En tvÂårig krydd- och läkeört som uppskattas av pollinerande insekter. Används i sallader, för att krydda bakverk och i te. Trivs i stenpartier. Blir fin även i blomsterrabatten. Blomman kan torkas som eternell. Även krukodling och hydrokultur.",
+              "facts": {
+              "type": "Tvåårig",
+              "height": ">40-60 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Maj",
+              "depth": "1 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Juli"
+              },
+              "gardening_tricks": "Sås direkt på friland i maj-juni eller förodlas med 2-3 fröer i 8cm-kruka med såjord. Omplantera var och en till 10cm-kruka i odlingsjord vid fyra blad. Plantera på växtplatsen när frostrisken är över eller plantera i kruka för odling på terrass och balkong eller inomhus på fönsterbräda eller under växtlampa. År ett bildas bladrosett och år två skjuter myskdoftande blomställning upp. Klipp ner vid behov så kommer nya friska blad."
+              },
+              {
+              "id": 10,
+              "name": "Kinesisk gräslök Allium Tuberosum",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/kinesisk-graslok-allium-tuberosum.jpg",
+              "description": "En lättodlad flerårig kryddväxt som kan odlas både i kruka och på friland. Kan skördas tidigt på våren och ger skörd fram till vintern. Godast färsk men kan även frysas. Dekorativa, vita, ätbara blommor. Vacker som kantväxt och i blomsterrabatten.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "25-30 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Jul/Okt",
+              "depth": "1cm",
+              "flower_distance": "1-2 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Maj-Oktober"
+              },
+              "gardening_tricks": "Fröerna sås i grupp med någon centimeters avstånd en centimeter djupt direkt på växtplatsen från april och framåt eller förodlas inomhus från mars-april. Förodling kan göras i såjord eller odlingsjord. Vid förodling omplantera vid 5 cm höjd till 12cm-kruka eller på friland. Trivs i lätt till mullhaltig jord. Näringsvattna krukodlad planta. Inomhusodlas i soligt fönster eller under växtbelysning. Även lämplig för hydrokultur"
+              },
+              {
+              "id": 11,
+              "name": "Polejmynta Mentha Pulegium",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/polejmynta-mentha-pulegium.jpg",
+              "description": "En flerårig kryddört med en fantastisk doft av pepparmynta. Används färsk eller torkad för att smaksätta olika maträtter. God att brygga te på. Har traditionellt används för att ge fräsch doft inomhus. Odlas på friland i kruka ute och inomhus.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "50 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Juli",
+              "depth": "1 cm",
+              "flower_distance": "20 cm",
+              "row_distance": "20 cm",
+              "harvest_time": "Maj-September"
+              },
+              "gardening_tricks": "Förodlas inomhus eller sås direkt på friland eller i kruka utomhus. Kan även odlas inomhus i kruka på fönsterbrädan, under växtbelysning och i hydrokultur. Så 4-5 fröer i en 8cm-kruka med såjord. Omplantera vid 4 blad †till 10-12cm-kruka. Mynta på friland sprider sig med utlöpare som snabbt kan ta utrymme från andra växter. Därför kan plantering i stor kruka nedgrävd i jorden vara ett alternativ för att stoppa oönskad spridning."
+              },
+              {
+              "id": 12,
+              "name": "Mikroblad Solros",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-solros.jpg",
+              "description": "Mikroblad av solros är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Delikata, saftiga blad som äts råa, i smoothie eller tillagas. Extra rik på vitamin C, E och selen. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "8-12 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 8-12 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 13,
+              "name": "Mikroblad Rödbeta Bulls blood",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-rodbeta-bulls-blood.jpg",
+              "description": "Mikroblad av rödbeta är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Äts råa eller i smoothie. Innehåller vitamin A och C, Flavonoid och Carotenoider. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "12-16 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 24 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 14,
+              "name": "Mikroblad Rädisa Sango",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-radisa-sango.jpg",
+              "description": "Mikroblad av rädisa är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Har en trevlig, het smak. Innehåller kalcium, järn, natrium, fosfor, svavel, kalium och vitamin C. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "6-9 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 6-8 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 15,
+              "name": "Mikroblad ärtor",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-artor.jpg",
+              "description": "Mikroblad av ärtor är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Ärtskott innehåller protein, magnesium, fosfor, kalium och jod samt vitamin A. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "9-12 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 24 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 16,
+              "name": "Mikroblad Purjolök",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-purjolok.jpg",
+              "description": "Purjolök som odlas till gräslök som mikroblad. Rik på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Innehåller rikligt med järn, fosfor, svavel, kalium och vitaminer. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "12-14 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 6-8 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 17,
+              "name": "Mikroblad Fenugreek",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-fenugreek.jpg",
+              "description": "Mikroblad av Fenugreek,†Bockhornsklöver är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Innehåller rikligt med kalium, selen, fosfor, magnesium, järn, vitamin C, B och folsyra. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "16-21 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 6-8 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 18,
+              "name": "Mikroblad Basilika",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mikroblad-basilika.jpg",
+              "description": "Mikroblad av basilika är rika på vitaminer, mineraler, klorofyll och antioxidanter. Sägs ha positiv effekt på matsmältningen. Bladen innehåller vitamin E som skyddar cellmembranen från fria radikaler. Har en angenäm, kryddig smak. Odlas året om.",
+              "facts": {
+              "type": "Mikroblad",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Året om",
+              "depth": "0-0,5 cm",
+              "flower_distance": "1 cm",
+              "row_distance": "1 cm",
+              "harvest_time": "12-15 dagar"
+              },
+              "gardening_tricks": "Mikroblad odlas året om inomhus i tråg med genomskinligt lock för att bibehålla fukten. Odling under växtlampa ger snabbare skörd. Odlas i kokos, odlingsjord eller på odlingsmatta. Vattna underlaget och så med 1-2 cm avstånd. Tryck fröerna lätt mot underlaget. Täck ej. Blötlägg fröerna i vatten 6-8 timmar innan sådd för snabbare resultat. Håll fuktigt men inte blött. Skörda med sax eller nyp av †direkt ovanför odlingsunderlaget."
+              },
+              {
+              "id": 19,
+              "name": "Kapkrusbär Physalis Peruviana Var Edulis",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/kapkrusbar.jpg",
+              "description": "Lättodlad flerårig växt som ger rikligt med smakrika, små orange, nyttiga frukter i vackert hölje. Äts färska eller torkade. Odlas i kruka ute på varm och solig plats. ÷vervintras svalt eller i rumstemperatur med växtlampa.",
+              "facts": {
+              "type": "Två-Flerårig",
+              "height": "60-70",
+              "position": "Soligt",
+              "time": "Mars-April",
+              "depth": "1 cm",
+              "flower_distance": "60 cm",
+              "row_distance": "60 cm",
+              "harvest_time": "Juli-September"
+              },
+              "gardening_tricks": "Förodlas inomhus och sätts ut i kruka på balkong, i växthus eller på skyddad solig plats när värmen kommer. Kan även odlas inomhus året om under lampa. Sätt 2-3 frön utan att täcka dem i en 8cm-kruka med såjord och placera i miniväxthus i 22-25 grader. Undervärme påskyndar groningen som tar 35-40 dagar. Omplantera var och en i 10cm-kruka med odlingsjord. Tas in före frosten. Kan beskäras och växer då tillbaka med nya skott."
+              },
+              {
+              "id": 20,
+              "name": "Plocksallad Bionda a Foglia Riccia",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/plocksallad-bionda-a-foglia-riccia.jpg",
+              "description": "En mycket lättodlad plocksallad med gröna, mycket smakfulla blad som kan skördas under en lång period. Kan även skördas och odlas som babysallad på friland och i kruka utomhus eller inomhus. Även lämplig för hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "25 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Augusti",
+              "depth": "0,5-1 cm",
+              "flower_distance": "5 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "35-45 dagar"
+              },
+              "gardening_tricks": "Kan sås tidigt på friland så snart jordtemperaturen överstiger ca 5C. Så i rader med 5-10 cm mellan fröerna och ca 30 cm radavstånd eller bredså över en yta med 5 cm mellan plantorna. Vattna väl vid sådd och undvik torka. Kan förodlas inomhus och odlas i kruka eller odlingstråg i soligt fönster, vintertid under lampa. Så med 3-4 veckors mellanrum för kontinuerlig skörd. Lämplig för hydrokultur. Ekologiskt odlade fröer."
+              },
+              {
+              "id": 21,
+              "name": "Isbergssallad Regina dei Ghiacci",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/isbergssallad-regina-dei-ghiacci.jpg",
+              "description": "En ovanligt vacker isbergssallad från Italien med klargröna ytterblad. Den ger kraftiga, goda, krispiga huvuden som väger ca 300 gram. Är skördeklara ca 80-85 dagar efter sådd. Kan krukodlas utomhus och inomhus med lampa. Även hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "20-25 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Juli/Året om",
+              "depth": "0,5 cm",
+              "flower_distance": "25 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "75-80 dagar"
+              },
+              "gardening_tricks": "Sås tidigt på friland så snart jordtemperaturen överstiger ca 5C. Så i rader med 25-30 cm mellan fröerna och 40 cm mellan raderna. Grotid 5-10 dagar. Trivs i mullrik, väldränerad jord. Vattna väl vid sådd och undvik torka. Inomhus kan de odlas i kruka eller odlingstråg i soligt fönster som babyleaf, vintertid under lampa. Optimal groningstemperatur 5-18 grader. Passar även för hydrokultur."
+              },
+              {
+              "id": 22,
+              "name": "Böna Borlotta Lingua Di Fuoco Nano",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/bona-borlotto-lingua-di-fuoco-nano.jpg",
+              "description": "En gammal uppskattad sort som ger riklig skörd av stora spräckliga baljor. Bönorna är vita med röda prickar. Borlottbönor används färska, kokta och stekta och kan även läggas in. Unga, mjälla bönor kan kokas och ätas med smör.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "35-40",
+              "position": "Soligt",
+              "time": "Maj-Juni",
+              "depth": "4 cm",
+              "flower_distance": "15 cm",
+              "row_distance": "50-60 cm",
+              "harvest_time": "90-100 dagar"
+              },
+              "gardening_tricks": "Blötlägg fröerna under 24 timmar före sådd för att skynda på groningen. Plantor kan förodlas inomhus eller direktsås på friland eller i kruka. Minsta jordtemperatur 15 grader annars risk för att fröerna ruttnar. Trivs i lucker, väldränerad jord. Näringstillförsel inte nödvändig. Ärt- och bönväxter ska inte sås på samma plats inom 4-5 år. Kan odlas inomhus och i hydrokultur under lampa. Ekologiskt odlat frö."
+              },
+              {
+              "id": 23,
+              "name": "Vaxböna Fructidor",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/vaxbona-fructidor.jpg",
+              "description": "En tidig pålitlig och lättodlad böna som ger rikligt med mjälla, välsmakande gula baljor med vita bönor. Kan ätas färska, kokta eller stekta. Kan även konserveras. Kan odlas i kruka på terrass och balkong samt inomhus i kruka och i hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "40 cm",
+              "position": "Soligt",
+              "time": "Maj-Juni",
+              "depth": "3 cm",
+              "flower_distance": "8 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "60-70 dagar"
+              },
+              "gardening_tricks": "Blötlägg fröerna under 24 timmar före sådd för att skynda på groningen. Plantor kan förodlas inomhus eller direktsås på friland eller i kruka. Minimum jordtemperatur 5 grader annars risk för att fröerna ruttnar. Föredrar mullhaltig, fuktighetshållande jord. Näringstillförsel inte nödvändig. Ärt- och bönväxter ska inte sås på samma plats inom 4-5 år. Behöver stödjas. Kan odlas inomhus under lampa. Ekologiskt odlat frö."
+              },
+              {
+              "id": 24,
+              "name": "Rödbeta Detroit 2",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/rodbeta-detroit-2.jpg",
+              "description": "En medeltidig, populär sort med runda mörkröda rötter. Rekommenderas för sommar- och höstskörd. Tål att lagras och förvaras torrt i låg temperatur. Äts lätt kokta, ugnsbakade, läggs in eller rivs råa. Supergoda i tunna skivor som chips!",
+              "facts": {
+              "type": "Ettårig",
+              "height": "-",
+              "position": "Sol/halvskugga",
+              "time": "April-Juni",
+              "depth": "1-2 cm",
+              "flower_distance": "10 cm",
+              "row_distance": "30-50 cm",
+              "harvest_time": "85-95 dagar"
+              },
+              "gardening_tricks": "Så direkt på friland eller i större odlingslåda i omgångar fram till juli. Tar 85-95 dagar från sådd till skörd. Betor som ska lagras sås sent för att undvika att de blir träiga. Varm och lätt fuktig jord är bäst för lyckad sådd för att undvika att fröerna ruttnar. †Kan även odlas inomhus som mikroblad och babysallad i odlingstråg med odlingsjord. Kan också groddas. Ekologiskt odlat frö."
+              },
+              {
+              "id": 25,
+              "name": "Mangold Lucullus",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/mangold-lucullus.jpg",
+              "description": "En tvÂårig växt där bladen kan tillagas som sallad och stjälkarna som selleri. Mycket lättodlad. Skördas från tidigt vår som småblad ända fram till vintern kommer. Passar i blomrabatten. Odlas också i kruka ute eller inomhus. Även i hydrokultur.",
+              "facts": {
+              "type": "Ett-tvÂårig",
+              "height": "40 cm",
+              "position": "Sol/halvskugga",
+              "time": "April-Juni",
+              "depth": "2 cm",
+              "flower_distance": "10 cm",
+              "row_distance": "10 cm",
+              "harvest_time": "ca 60 dagar"
+              },
+              "gardening_tricks": "Sås direkt på friland när jorden blivit uppvärmd eller förodlas inomhus för tidigare skörd. Kan även odlas inomhus året om som mikroblad och babysallad eller för groddning. Trivs i bördig, lucker jord. Direktså eller förodla för odling utomhus 4-6 veckor innan utplantering. Sätt 3-4 fröer i 8cm-kruka med såjord eller bredså i odlingstråg. Plantera ut eller omplantera i odlingsjord i kruka för odling inomhus."
+              },
+              {
+              "id": 26,
+              "name": "Spenat Geant DHiver",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/spenat-geant-dhiver.jpg",
+              "description": "Medeltidig spenat som odlas både som babysallad och som fullvuxen. Bladen är djupt gröna och saftiga, smakrika och fulla med viktiga vitaminer och mineraler. Ger skörd redan inom 28-35 dagar. Används till sallad, soppa och näringsrika smoothies.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "30-40 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Maj/Aug-Okt",
+              "depth": "1-2 cm",
+              "flower_distance": "25 cm",
+              "row_distance": "40-50 cm",
+              "harvest_time": "ca 30 dagar/småblad"
+              },
+              "gardening_tricks": "Sådd tidig vår och sent på hösten för övervintring och tidig vårskörd. Kan även odlas inomhus året om som mikroblad eller babysallad. Gror bäst under 21 grader. Trivs i bördig, lucker jord. Direktså eller förodla för odling utomhus 4-6 veckor innan utplantering- Sätt 3-4 fröer i 8cm-kruka med såjord eller bredså i odlingstråg. Plantera ut eller omplantera i odlingsjord i kruka för odling inomhus. Ekologiskt odlat frö."
+              },
+              {
+              "id": 27,
+              "name": "Melon Charentais",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/melon-charentais.jpg",
+              "description": "En melon med sött, saftigt väldoftande orange fruktkött. Passar för odling i växthus och på skyddad solig plats i kruka eller på friland under fiberduk eller plast. Frukten är rund och har grågrönt skal. Vikt 800-900 gram. Äts naturell.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">200 cm",
+              "position": "Soligt",
+              "time": "April-Maj",
+              "depth": "1 cm",
+              "flower_distance": "100 cm",
+              "row_distance": "100 cm",
+              "harvest_time": "Juli-Augusti"
+              },
+              "gardening_tricks": "Förodlas inomhus april-maj. Sätt två frön i 8cm-kruka med såjord i miniväxthus. Om båda gror knipsa av en och plantera i 10-12cm-kruka i odlingsjord. Plantera i större kruka i näringsrik jord i växthus eller på skyddad plats utomhus. Kan även odlas i söderfönster i stor kruka. Kräver regelbunden vattning och näring. Stöd och bind upp plantan. Gallra till 2-3 frukter. Handpollinera vid behov. Skörd efter 70-90 dagar."
+              },
+              {
+              "id": 28,
+              "name": "Salladslök Bajkal",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/salladslok-bajkal.jpg",
+              "description": "En flerårig delikat, snabbväxande vårlök som kan börja skördas redan tidigt på våren. Har gröna stjälkar med vita mjälla smålökar nedtill som har en mild och fin smak. Hela växten kan ätas. Passar bra i sallader och till olika lagade rätter.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "30-40 cm",
+              "position": "Soligt",
+              "time": "April-Juli/Sep-Okt",
+              "depth": "0,5-1,0 cm",
+              "flower_distance": "15 cm",
+              "row_distance": "15 cm",
+              "harvest_time": "Maj-Oktober"
+              },
+              "gardening_tricks": "Direktsådd på friland april-juli eller september-oktober. Vid sen sådd övervintrar plantorna för tidig vårsådd. Så upprepade gånger för längre skördesäsong. Vattna och håll sådden fuktig. Kan förodlas i kruka med 5-10 frön/kruka. Utplanteras när frosten är över. Vid inomhusodling, som kan ske året om rekommenderas placering i miniväxthus. Drivs inomhus på fönsterbrädan och året om under växtlampa. Även lämplig för hydrokultur."
+              },
+              {
+              "id": 29,
+              "name": "Lavendel Lavandula Angustifolia",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/lavendel-lavandula-angustifolia.jpg",
+              "description": "En medicinalväxt vars arom och växtolja har en lugnande och sövande effekt. Uppskattad av pollinerande insekter. Fin i rabatt och som kantväxt. Trivs i kruka utomhus. Bladen och blommor smaksätter rätter på lamm, vilt, såser, te och bakverk.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "40-60 cm",
+              "position": "Soligt",
+              "time": "Mar-Apr/Sep-Okt",
+              "depth": "1 cm",
+              "flower_distance": "20 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Juli-September"
+              },
+              "gardening_tricks": "Förodlas inomhus mars-april eller så direkt på växtplatsen vår/höst. Kan sås i kruka ute på skyddad plats under vintern. Dessa gror när värmen kommer. Så 5-6 fröer i 8-10cm-kruka som täcks lätt med jord. Sådden hålls fuktig i miniväxthus. Kan gro ojämnt. Plantera en och en i 10cm-kruka vid 5-7 cm höjd i odlingsjord. Utplanteras på växtplatsen när frosten upphört. Kräver minimalt med näring. Beskär höst eller vår för finare form."
+              },
+              {
+              "id": 30,
+              "name": "Majs Tasty Sweet F1",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/majs-tasty-sweet-f1.jpg",
+              "description": "En supersöt sockermajs som får 2-3 ca 20 cm långa kolvar. Skördas när 'skägget' i änden av kolven vissnar. God att grilla och koka. Äts med smör och salt. Odla †på friland i grupper. Kan också krukodlas med minst 2-3 plantor för att pollineras.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "150-160 cm",
+              "position": "Soligt",
+              "time": "Apr-Maj",
+              "depth": "1-2 cm",
+              "flower_distance": "35 cm",
+              "row_distance": "35 cm",
+              "harvest_time": "90-100 dagar"
+              },
+              "gardening_tricks": "Förodlas inomhus i mars-april med 1-2 frön i en 8cm-kruka fylld med såjord i miniväxthus. Klipp bort ett skott om båda gror. Omplantera vid ca 15 cm höjd till 10-12cm-kruka med odlingsjord. Utplanteras när frostrisken är över. Majs pollineras med vinden och behöver därför odlas i grupper med ca 30 cm mellanrum åt båda håll för bäst resultat. Vid odling i kruka placera plantorna på motsvarande sätt för optimal skörd."
+              },
+              {
+              "id": 31,
+              "name": "Machesallad Verte de Cambrai",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/machesallad-verte-de-cambrai.jpg",
+              "description": "Lättodlad och snabbväxande ört som även kallas Vårklynne eller vintersallad. Odlas inomhus eller på friland. Bladen har en nötaktig smak och används med fördel i sallad, till såser, som garnityr, och på smörgåsen. ÷vervintras ute för tidig skörd.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "5-10 cm",
+              "position": "Sol/halvskugga",
+              "time": "Feb-Sep/Året om",
+              "depth": "1 cm",
+              "flower_distance": "10 cm",
+              "row_distance": "10-20 cm",
+              "harvest_time": "Mar-Okt/Året om"
+              },
+              "gardening_tricks": "Sådd på friland februari-oktober i rader med 10 cm avstånd och 25-30 cm mellan raderna eller bredså med 10 cm mellan alla plantor. Kan även odlas i drivbänk under skydd eller växthus vintertid i odlingstråg med 5-10 cm avstånd. Inomhus kan den odlas på fönsterbrädan i kruka och tråg som babysallad eller fullstora.†Trivs i soligt som skuggigt läge utan krav på näring. Vattnas vid sådd och får ej torka. Skördeklar inom ca 60 dagar."
+              },
+              {
+              "id": 32,
+              "name": "Huvudsallad May Queen",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/huvudsallad-may-queen.jpg",
+              "description": "En gammal arvesort som ger tidig skörd av gröna salladshuvuden med anstrykning av rött. Kan skördas tidigare som plock- och babysallad. Passar för odling på friland, kruka utomhus. Inomhus och i hydrokultur under lampa. Ekologiskt odlat frö.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "20-25 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Juli",
+              "depth": "0,5 cm",
+              "flower_distance": "25 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "huvud ca 50 dagar"
+              },
+              "gardening_tricks": "Sås tidigt på friland så snart jordtemperaturen överstiger ca 5C. Så i rader med 30 cm mellan fröerna. Grotid 7-14 dagar. I gynnsamma lägen ger höstsådd skörd sen höst och tidig vår. Vattna väl vid sådd och undvik torka. Inomhus kan de odlas i kruka eller odlingstråg i soligt fönster, vintertid under lampa. Optimal groningstemperatur 16-18 grader. Så med 2-3 veckors mellanrum för kontinuerlig skörd. †Lämplig för hydrokultur."
+              },
+              {
+              "id": 33,
+              "name": "Plocksallad Grand Rapids",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/plocksallad-grand-rapids.jpg",
+              "description": "En populär och mycket lättodlad†plocksallad som odlas för kontinuerlig skörd. Förodlas inomhus eller i växthus för tidigare skörd, direkt på friland och inomhus året om som mikroblad och babysallad under växtlampa. Bladen är krispiga och goda.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "20-25 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mars-Juli/Året om",
+              "depth": "0,5",
+              "flower_distance": "5-10 cm",
+              "row_distance": "5-10 cm/30 cm",
+              "harvest_time": "30-50 dagar"
+              },
+              "gardening_tricks": "Kan sås tidigt på friland så snart jordtemperaturen överstiger ca 5C. Så i rader med 5-10 cm mellan fröerna och ca 30 cm radavstånd eller bredså över en yta med 5 cm mellan plantorna. Vattna väl vid sådd och undvik torka som gör bladen beska. Inomhus kan de odlas i kruka eller odlingstråg i soligt fönster, vintertid under lampa. Så med 3-4 veckors mellanrum för kontinuerlig skörd. Lämplig för hydrokultur."
+              },
+              {
+              "id": 34,
+              "name": "Persilja Slätbladig, Gigante DItalia",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/persilja-slatbladig-gigante-ditalia.jpg",
+              "description": "En italiensk slätbladig persilja för kryddning av många olika rätter. Godast färsk. Bladen kan torkas eller frysas. Odla i kruka ute och inne eller på friland med vår- eller höstsådd. Skörd hela säsongen vid tidig sådd. Ekologiskt odlat frö.",
+              "facts": {
+              "type": "Tvåårig",
+              "height": "20-40 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Maj/Sep-Okt",
+              "depth": "0,5-1 cm",
+              "flower_distance": "10-15 cm",
+              "row_distance": "40-50 cm",
+              "harvest_time": "70-75 dgr/Apr-Sep"
+              },
+              "gardening_tricks": "Så höst eller vår på friland. Grotid 14-21 dagar, ibland längre. Förodling rekommenderas för tidigare skörd. Så på friland med 5 cm avstånd i rader med 40 cm mellanrum. Vid förodling så 5-10 frön i 8cm-kruka med såjord i miniväxthus. Helst under växtlampa. Omplantera ihop vid 4-6 blad i 10cm-kruka med odlingsjord. För flytt till friland, avhärda och plantera ut när frosten är över. Odlas inomhus och i hydrokultur under växtlampa."
+              },
+              {
+              "id": 35,
+              "name": "Persilja Astra",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/persilja-astra.jpg",
+              "description": "En frodig mörkgrön kruspersilja som berikar smaken i olika rätter. Bladen förvaras torkade eller frysta. Odlas i kruka ute och inne eller på friland med vår- eller höstsådd. Skörd hela odlingssäsongen vid tidig sådd. Fortsatt skörd även år två.",
+              "facts": {
+              "type": "tvÂårig",
+              "height": "20-30 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Maj/Sep-Okt",
+              "depth": "0,5-1 cm",
+              "flower_distance": "5-7 cm",
+              "row_distance": "30-40 cm",
+              "harvest_time": "80-90 dgr/Apr-Sep"
+              },
+              "gardening_tricks": "Så höst eller vår på friland. Grotid 14-21 dagar, ibland längre. Förodling rekommenderas för tidigare skörd. Så på friland med 5 cm avstånd i rader med 40 cm mellanrum. Vid förodling så 5-10 frön i 8cm-kruka med såjord i miniväxthus. Helst under växtlampa. Omplantera ihop vid 4-6 blad i 10cm-kruka med odlingsjord. För flytt till friland, avhärda och plantera ut när frosten är över. Odlas inomhus och i hydrokultur under växtlampa."
+              },
+              {
+              "id": 36,
+              "name": "Sockerärt Norli",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/sockerart-norli.jpg",
+              "description": "En sockerärt som ger riklig skörd av söta, mörkgröna skidor som plockas när de är 5-6 cm långa. Blommar med snövita blommor. Skördeklar inom ca 50 dagar. Odlas på friland och i kruka. Behöver stöd. God tålighet mot Fusarium. Ekologiskt odlat frö.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "50-60 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Jun",
+              "depth": "2 cm",
+              "flower_distance": "5 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "ca 50 dagar"
+              },
+              "gardening_tricks": "Blötlägg fröerna under 24 timmar före sådd för att skynda på groningen. Plantor kan förodlas inomhus eller direktsås på friland eller i kruka. Minimum jordtemperatur 5 grader annars risk för att fröerna ruttnar. Föredrar mullhaltig, fuktighetshållande jord. Näringstillförsel inte nödvändig. Täckning med gräsklipp runt plantorna ger viss näring och minskar avdunstning. Ärt- och bönväxter ska inte sås på samma plats inom 4-5 år."
+              },
+              {
+              "id": 37,
+              "name": "Rädisa Patricia",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/radisa-patricia.jpg",
+              "description": "Har avlånga, djupröda rötter med vit topp. Lättodlad och snabbväxande. I gynnsamma lägen skörd redan efter tre-fyra veckor. Kravlös men trivs bäst i mullrik, porös jord. Så i omgångar för skörd ända fram på hösten. Blasten kan användas till sallad.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "-",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Maj/Aug-Sep",
+              "depth": "1 cm",
+              "flower_distance": "3 cm",
+              "row_distance": "15 cm",
+              "harvest_time": "ca 30 dagar"
+              },
+              "gardening_tricks": "Sås direkt på växtplatsen mars-maj och augusti-september för höstskörd. Kan även sås i drivbänk med fiberduk eller under glas i gynnsamma lägen från februari. Så i omgångar i rader med 2-3 cm avstånd mellan fröerna och 10-20 cm mellan raderna. Gror inom 5-15 dagar och är skördeklara inom ca 30 dagar. Kan odlas inomhus i kruka för bladskörd. Ekologiskt odlat frö."
+              },
+              {
+              "id": 38,
+              "name": "Morot Nantes 2",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/morot-nantes-2.jpg",
+              "description": "En medeltidig, klassisk kvalitetsmorot som kan skördas både tidigt som babymorot och sent på säsongen för lagring. Blir då ca 15-20 cm. God tålighet mot morotsfluga. Kommer ursprungligen från Nantes i Frankrike. Används både rå och tillagad.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "-",
+              "position": "Soligt",
+              "time": "Mar-Jun",
+              "depth": "1 cm",
+              "flower_distance": "5 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "ca 110 dagar"
+              },
+              "gardening_tricks": "Sås direkt på växtplatsen genom att strössla glest i en fåra på friland. Vattna och täck över fröerna med ett tunt lager jord. Glesa till 5 cm mellan plantorna när blasten börjar visa sig. Trivs i mullrik och sandig jord utan kraftig lera. Sorten kan sås i omgångar från mars-juni. Täck gärna sådden med fiberduk för att öka värmen tidigt på säsongen och som skydd mot skadegörare. Lagras svalt, torrt och mörkt. Ekologiskt odlat frö."
+              },
+              {
+              "id": 39,
+              "name": "Morot Rondo",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/morot-rondo.jpg",
+              "description": "En härlig rund snackmorot med söt smak. Trivs lika bra i kruka som på friland. Motståndskraftig sort som inte spricker. Skörd redan inom ca 50 dagar efter sådd. Odlas främst för att ätas färska men kan också tillagas, frysas och konserveras hel.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "- cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Jun",
+              "depth": "1 cm",
+              "flower_distance": "5 cm",
+              "row_distance": "15 cm",
+              "harvest_time": "50-75 dagar"
+              },
+              "gardening_tricks": "Sås direkt på växtplatsen antingen genom att strössla glest i kruka eller låda eller i en fåra på friland. Vattna och täck över fröerna med ett tunt lager jord. Glesa till 5 cm mellan plantorna när blaster börjar visa sig. Näringsvattna regelbundet. Sorten kan sås i omgångar från mars-juli och en höstskörd hinner mogna vid sådd i augusti. Kan även odlas inomhus året om under växtbelysning och extra tidigt ute i drivbänk."
+              },
+              {
+              "id": 40,
+              "name": "Ruccola Eruca Sativa",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/ruccola-eruca-sativa.jpg",
+              "description": "Vild ruccola, sandsenap odlas som en- eller flerårig. Smakrika blad med ljusgula blommor. Kan odlas på friland och i kruka utomhus och inomhus året om. Lämplig för hydrokultur. Inomhus krävs växtbelysning för bra resultat. Ekologiskt odlat frö.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "ca 25 cm",
+              "position": "Sol/halvskugga",
+              "time": "Feb-Aug/Året om",
+              "depth": "1 cm",
+              "flower_distance": "10 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Maj-Sep/Året om"
+              },
+              "gardening_tricks": "Förodling rekommenderas. Kan även sås direkt på växtplatsen. Jordtemperatur 25-30 grader för bra groning. Undervärme underlättar vid förodling. Sätt 4 fröer i en 8cm-kruka ca 0,5 cm djupt gärna i miniväxthus. Plantera ut efter sista frosten eller omplantera i odlingsjord för krukodling inne eller utomhus alternativt i hydrokultur. Kräver rikligt med vatten men sparsamt med näring. Använd växtbelysning för bra resultat."
+              },
+              {
+              "id": 41,
+              "name": "Gurka Pony F1",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/gurka-pony-f1.jpg",
+              "description": "En tidig salladsgurka som ger riklig skörd av delikata 10-14 cm frukter med frisk smak. Passar bra i sallader och kan serveras hela. Lättodlad och tålig mot sjukdomar. Lämplig för inomhusodling och hydrokultur. För växthus och ute på skyddad plats.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">100 cm",
+              "position": "Soligt",
+              "time": "Feb-Apr",
+              "depth": "1 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Maj-Jul dagar"
+              },
+              "gardening_tricks": "Förodlas inomhus mars-juni ca 5 veckor innan planerad utplantering. Sätt 1-2 frö i krukan med såjord i miniväxthus. Helst under växtlampa. Grotid 5-15 dagar. Klipp bort en planta om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Gurka är köldkänslig så utplantering bör vänta till efter sista nattfrost. Stöd och bind upp plantan som har relativt sköra rankor. Vattna och gödsla regelbundet."
+              },
+              {
+              "id": 42,
+              "name": "Gurka Marketer",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/gurka-marketer.jpg",
+              "description": "Ger en riklig skörd av enhetliga, mörkgröna 15-30 cm långa slanggurkor. Odlas i växthus, på friland eller i större kruka på varm, skyddad plats. God att skiva i sallad och för inläggning. Smaken är söt och mild. Behöver stöd och uppbindning.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">150 cm",
+              "position": "Soligt",
+              "time": "Apr-Jun",
+              "depth": "1-2 cm",
+              "flower_distance": "60 cm",
+              "row_distance": "60 cm",
+              "harvest_time": "Jun-Sep"
+              },
+              "gardening_tricks": "Förodlas inomhus mars-juni ca 5 veckor innan planerad utplantering. Sätt 1-2 frö i krukan med såjord i miniväxthus. Helst under växtlampa. Grotid 5-15 dagar. Klipp bort en planta om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Gurka är köldkänslig så utplantering bör vänta till efter sista nattfrost. Stöd och bind upp plantan som har relativt sköra rankor. Vattna och gödsla regelbundet."
+              },
+              {
+              "id": 43,
+              "name": "Chili Killian",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/chili-killian.jpg",
+              "description": "Medeltidig sort som fullt mogen får orange och röda, 15 cm avlånga frukter med tjocka väggar. Mild till lätt het. 400-700 Scoville. Kan börja skördas som grön men godare röd och orange. Äts färsk, grillad eller fylld. Ger rikligt med frukt.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "50 cm",
+              "position": "Soligt",
+              "time": "Jan-Apr",
+              "depth": "1 cm",
+              "flower_distance": "50 cm",
+              "row_distance": "50 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Chili har lång utvecklingstid. Förodlas inne i 8cm-krukor med såjord i miniväxthus under växtlampa januari-april. Sätt 1-2 frö i krukan. Klipp bort en om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Omplantera igen i 12-15cm-kruka innan slutlig utplantering. Gödsla och vattna regelbundet. Krukodla i växthus, på terrass eller balkong i soligt, skyddat läge. Även inomhusodling och hydrokultur under växtlampa."
+              },
+              {
+              "id": 44,
+              "name": "Chili Draky F1",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/chili-draky-f1.jpg",
+              "description": "En tidig och rikgivande sort som är relativt mild. 400-700 Scoville. De mogna frukterna är ca 5 cm långa, gröna till röda och tjockväggiga. Äts friterade, grillade eller färska där de är goda med fyllning. Passar även bra att torka.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "70 cm",
+              "position": "Soligt",
+              "time": "Jan-Apr",
+              "depth": "1 cm",
+              "flower_distance": "60 cm",
+              "row_distance": "60 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Chili har lång utvecklingstid. Förodlas inne i 8cm-krukor med såjord i miniväxthus under växtlampa januari-april. Sätt 1-2 frö i krukan. Klipp bort en om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Omplantera igen i 12-15cm-kruka innan slutlig utplantering. Gödsla och vattna regelbundet. Krukodla i växthus, på terrass eller balkong i soligt, skyddat läge. Även inomhusodling och hydrokultur under växtlampa."
+              },
+              {
+              "id": 45,
+              "name": "Chili Italico",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/chili-italico.jpg",
+              "description": "Medeltidig sort med mycket starka gröna och röda frukter som väger ca 10 gram. 500 Scoville. Smaken är mer kryddig än het. Äts färsk, konserveras eller torkas. Goda grillade och friterade. Odlas i växthus, inomhus eller på skyddad, solig plats ute.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "40 cm",
+              "position": "Soligt",
+              "time": "Jan-Apr",
+              "depth": "1 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Chili har lång utvecklingstid. Förodlas inne i 8cm-krukor med såjord i miniväxthus under växtlampa januari-april. Sätt 1-2 frö i krukan. Klipp bort en om båda gror. Vid fyra blad plantera om i 10cm-kruka med odlingsjord. Omplantera igen i 12-15cm-kruka innan slutlig utplantering. Gödsla och vattna regelbundet. Krukodla i växthus, på terrass eller balkong i soligt, skyddat läge. Även inomhusodling och hydrokultur under växtlampa."
+              },
+              {
+              "id": 46,
+              "name": "Tomat Black Cherry",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/tomat-black-cherry.jpg",
+              "description": "En mycket god körsbärstomat med chokladfärgade frukter. Ger riklig skörd av små, mycket smakrika tomater som äts färska i sallad eller i lagade rätter. Kräver uppbindning och stöd. Odlas i växthus eller på varm skyddad plats. Tjuvas.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">150 cm",
+              "position": "Soligt",
+              "time": "Feb-Apr",
+              "depth": "1 cm",
+              "flower_distance": "50 cm",
+              "row_distance": "50 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Förodlas inomhus i miniväxthus februari-april i 20-25 grader. Helst under växtlampa. Börja inte allt för tidigt då de växer snabbt. Sätt 1-2 frö i 8cm-kruka med såjord. Gror på 5-15 dagar. Klipp bort en om båda gror. Vid fyra blad plantera om i 10-12cm-kruka med odlingsjord. Omplantera ytterligare en gång till kruka 15-20 cm innan slutlig plantering. Sätt plantan djupt i krukan och stöd vid behov. Utplanteras när frostrisken är över."
+              },
+              {
+              "id": 47,
+              "name": "Tomat Vilma",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/tomat-vilma.jpg",
+              "description": "En lättodlad, kompakt och lågväxt dvärgtomat med runda, ljusröda frukter på ca 30 gram. Perfekt i kruka och ampel. Frukterna passar att äta färska och för konservering. Solig och varm växtplats. Växtlampa vid odling inomhus i kruka och hydrokultur.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "30 cm",
+              "position": "Soligt",
+              "time": "Feb-Apr",
+              "depth": "1 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Förodlas inomhus i miniväxthus februari-april i 20-25 grader. Helst under växtlampa. Sätt 1-2 frö i 8cm-kruka med såjord. Gror på 5-15 dagar. Klipp bort en om båda gror. Vid fyra blad plantera om i 10-12cm-kruka med odlingsjord. Omplantera ytterligare en gång till kruka 15-20 cm innan slutlig plantering. Sätt plantan djupt i krukan. Utplanteras när frostrisken är över. Passar till inomhusodling och hydrokultur."
+              },
+              {
+              "id": 48,
+              "name": "Tomat Costoluto Fiorentino",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/tomat-costoluto-fiorentino.jpg",
+              "description": "En saftig och smakrik italiensk tomat. Den äldsta och mest odlade sorten i Toscanaregionen. Stora, räfflade frukter 180-200 gram. Används färsk från att den är rödgrön till djupt röd i sallader och olika tomatsåser. För växthus, tjuvas.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">150 cm",
+              "position": "Soligt",
+              "time": "Feb-APr",
+              "depth": "1 cm",
+              "flower_distance": "50 cm",
+              "row_distance": "50 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Förodlas inomhus i miniväxthus februari-april i 20-25 grader. Helst under växtlampa. Börja inte allt för tidigt då de växer snabbt. Sätt 1-2 frö i 8cm-kruka med såjord. Gror på 5-15 dagar. Klipp bort en om båda gror. Vid fyra blad plantera om i 10-12cm-kruka med odlingsjord. Omplantera en gång till i kruka 15-20 cm innan slutlig plantering. Sätt plantan djupt i krukan och stöd vid behov. Utplanteras när frostrisken är över."
+              },
+              {
+              "id": 49,
+              "name": "Tomat Yellow Pearshaped",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/tomat-yellow-pearshaped.jpg",
+              "description": "En kulturarvssort från tidigt 1800-tal som ger mängder av 4-5 cm långa gula päronformade, söta tomater. Vikt ca 15 gram. Lämplig för odling i växthus och på skyddad, solig plats utomhus. Upprättväxande sort som behöver stöd och uppbindning. Tjuvas.",
+              "facts": {
+              "type": "Ettårig",
+              "height": ">150 cm",
+              "position": "Soligt",
+              "time": "Feb-Apr",
+              "depth": "1 cm",
+              "flower_distance": "50 cm",
+              "row_distance": "50 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Förodlas inomhus i miniväxthus februari-april i 20-25 grader. Helst under växtlampa. Börja inte allt för tidigt då de växer snabbt. Sätt 1-2 frö i 8cm-kruka med såjord. Gror på 5-15 dagar. Klipp bort en om båda gror. Vid fyra blad plantera om i 10-12cm-kruka med odlingsjord. Omplantera ytterligare en gång till kruka 15-20 cm innan slutlig plantering. Sätt plantan djupt i krukan och stöd vid behov. Utplanteras när frostrisken är över."
+              },
+              {
+              "id": 50,
+              "name": "Fänkål Romy",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/fankal-romy.jpg",
+              "description": "Hela växten används i matlagning och bak. Äts färsk eller torkad och passar för inläggning. Knölarna gratineras eller hackas i sallad och andra rätter. Bladen äts färska i sallad, soppa, fisk och grönsaksrätter. Fröerna används som brödkrydda.",
+              "facts": {
+              "type": "Ett-Flerårig",
+              "height": "-",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Apr/direkt Maj",
+              "depth": "1-2 cm",
+              "flower_distance": "30 cm",
+              "row_distance": "50 cm",
+              "harvest_time": "Aug-Sep"
+              },
+              "gardening_tricks": "Så direkt på varm och solig plats från maj eller förodla inomhus mars-april. Odlas inte i närheten av dill och koriander pga. risk för korspollinering. Fänkål trivs i mullrik, väldränerad jord. Så i rader som glesas till ca 50 cm avstånd. Förodlade plantor sätts ut efter nattfrosten är över. Fänkål har känslig rot så var extra försiktig. Vattna ordentligt. Om blomstjälkar bildas för tidigt nyps de av så att energi går till att bilda knölar."
+              },
+              {
+              "id": 51,
+              "name": "Smultron Regina",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/smultron-regina.jpg",
+              "description": "Ett söt och god, extra stor smultronsort som ger riklig skörd från juli fram till att frosten kommer. Lättodlade, kompakta plantor utan revor. Kan odlas i rabatt, ampel eller kruka. Även lämplig för inomhusodling under växtlampa. Upp till zon 6.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "15-20 cm",
+              "position": "Sol/halvskugga",
+              "time": "Feb-Apr",
+              "depth": "1 cm",
+              "flower_distance": "20-30 cm",
+              "row_distance": "20-30 cm",
+              "harvest_time": "Jun-Sep"
+              },
+              "gardening_tricks": "Förodla inomhus från februari med 2-3 frön i 8cm-kruka med såjord placerad i miniväxthus. †Ojämn groning som kan ta 1-3 månader. Omplanteras en och en i 10cm-kruka med odlingsjord vid 4-6 blad. Ställ sådd och plantor under växtlampa för bäst resultat. Planteras ut efter avhärdning när risken för nattfrost är förbi. Näringsvattna med balanserad näring under hela växtsäsongen för rikligare skörd."
+              },
+              {
+              "id": 52,
+              "name": "Citronmeliss Melissa Officinalis",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/citronmeliss-melissa-officinalis.jpg",
+              "description": "Citronmeliss, även kallad Hjärtansfröjd är en örtkrydda med fräscht grönt bladverk med tydlig doft och smak av citron. Färska och torkade blad används till kyckling, fisk, sallad och omelett. Även god till desserter och bryggs till ett gott te.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "50-60 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Jun",
+              "depth": "1 cm",
+              "flower_distance": "30 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Jun-Sep/Året om"
+              },
+              "gardening_tricks": "Förodlas inomhus mars-juni. Helst under växtbelysning. Så 2-3 fröer i 8cm-kruka med såjord i miniväxthus. Omskola till varsin 10cm-kruka vid fyra blad i odlingsjord. Plantera ut †när nattfrosten är över. Trivs bäst i soligt läge i lucker jord. Behöver måttligt med näringstillförsel på friland, halv dos i kruka. Odlas på friland i södra delarna av landet. Vintertäck gärna. Odla inomhus året om på fönsterbräda eller under lampa."
+              },
+              {
+              "id": 53,
+              "name": "Oregano Origanum Vulgare",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/oregano-origanum-vulgare.jpg",
+              "description": "En härdig kryddväxt som även går under namnet Kungsmynta. Färska och torkade blad används i sallader, kötträtter och för kryddning i italienska rätter som pizza och pasta. Odlas i örtagården, rabatten och i kruka året om. Fin som lågväxande häck.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "30-50 cm",
+              "position": "Soligt",
+              "time": "Mar-Maj/Året om",
+              "depth": "0-1 cm",
+              "flower_distance": "20 cm",
+              "row_distance": "70 cm",
+              "harvest_time": "Maj-Sep/Året om"
+              },
+              "gardening_tricks": "Förodlas inomhus mars-maj. Helst under växtbelysning. Så 2-3 fröer i 8cm-kruka med såjord i miniväxthus. Omskola till varsin 10cm-kruka vid fyra blad i odlingsjord. Plantera ut på växtplatsen när nattfrosten är över. Behöver måttligt med näringstillförsel på friland, halv dos i kruka. Beskär †för att få nya fina skott. Odla inomhus året om på fönsterbräda eller under lampa. Lämplig även för odling i hydrokultur."
+              },
+              {
+              "id": 54,
+              "name": "Timjan Thymus Vulgaris",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/timjan-thymus-vulgaris.jpg",
+              "description": "Odlas på friland i större delen av landet. I örtagården eller i rabatten. Även fin som låg häck och som marktäckare. Odlas inomhus året om på fönsterbrädan, under lampa vintertid. Blad och blommor används färska och torkade i soppor, såser, vinäger, marinad och te.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "ca 40 cm",
+              "position": "Soligt",
+              "time": "Mar-Jun/Året om",
+              "depth": "1 cm",
+              "flower_distance": "20 cm",
+              "row_distance": "20 cm",
+              "harvest_time": "Jul-Aug/Året om"
+              },
+              "gardening_tricks": "Förodlas inomhus februari-juni. Helst under växtbelysning. Så 2-3 fröer i 8cm-kruka i såjord. Omskola till varsin 10cm-kruka vid fyra blad i odlingsjord. Plantera ut på växtplatsen när nattfrosten är över. Behöver måttligt med näringstillförsel på friland, halv dos i kruka. Beskär om den blir risig och för att få nya fina skott. Odla inomhus året om på fönsterbräda eller under lampa. Lämplig för odling i hydrokultur."
+              },
+              {
+              "id": 55,
+              "name": "Rosmarin Rosmarinus Officinalis",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/rosmarin-rosmarinus-officinalis.jpg",
+              "description": "Dekorativ flerårig kryddväxt. Dåligt härdig och odlas därför främst i kruka utomhus på sommaren och inomhus året om under växtbelysning. Färska och torkade blad används till bröd, soppa, fisk, och skaldjur, kyckling och vilt. Även i te.",
+              "facts": {
+              "type": "Flerårig",
+              "height": "50 cm",
+              "position": "Soligt",
+              "time": "Feb-Apr/Året om",
+              "depth": "1 cm",
+              "flower_distance": "30 cm",
+              "row_distance": "60 cm",
+              "harvest_time": "Maj-Sep/Året om"
+              },
+              "gardening_tricks": "Förodlas inomhus februari-april. Helst under växtbelysning. Så 2-3 fröer i 8cm-kruka i såjord. Gror inom ca 10 dagar. Omskola till 10cm-kruka vid fyra blad i odlingsjord. Näringsvattna med halv dos fram till blomningen och vintertid. Full dos månaderna efter blomning. Mycket torktålig, men låt inte jorden torka ut helt. Tål ner till några minusgrader. Tas sedan in och odlas under växtlampa. Beskär om den blir risig."
+              },
+              {
+              "id": 56,
+              "name": "Solros Teddy Bear",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/solros-teddy-bear.jpg",
+              "description": "En lågväxande solros som passar att odla i kruka, rabatt eller som låg häck. Står länge som snittblomma. Förgrenar sig med upp till 15 blommor på samma planta. De mycket täta och dubbla blommorna är 15 cm i diameter och är fina under lång tid.†",
+              "facts": {
+              "type": "Ettårig",
+              "height": "50-60 cm",
+              "position": "Soligt",
+              "time": "Apr-Maj",
+              "depth": "2 cm",
+              "flower_distance": "40 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Blomn efter 85 dgr"
+              },
+              "gardening_tricks": "Fröerna kan direktsås på växtplatsen men förodling inomhus rekommenderas från april i soligt fönster eller under växtlampa. Gror vid en temperatur på 10-20 grader på 5-12 dagar. Sätt 1-2 frö i krukan och klipp bort en om båda gror. Vid fyra blad plantera om i 12cm-kruka med odlingsjord. Trivs bäst i vindskyddat, varmt och soligt läge i näringsrik jord. Tillför näring ett par gånger på säsongen för rikligare blomning."
+              },
+              {
+              "id": 57,
+              "name": "Squash Goldena Yellow",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/squash-goldena-yellow.jpg",
+              "description": "Gula frukter som skördas 20-60 cm långa. Ger fler frukter vid regelbunden skörd. Används till sallad, i wokade rätter, till gratäng, som zucchinipasta, ugnsbakade, grillade mm. Kan konserveras. Friterade blommor är en delikatess.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "40 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Maj",
+              "depth": "1 cm",
+              "flower_distance": "40-60 cm",
+              "row_distance": "40-60 cm",
+              "harvest_time": "Jul-Sep"
+              },
+              "gardening_tricks": "Förodlas inne eller i växthus i 8cm-krukor fyllda med såjord i miniväxthus. Sätt 1-2 frö i krukan och klipp bort en om båda gror. Vid fyra blad plantera om i 12cm-kruka med odlingsjord. Utplanteras efter avvänjning när nattfrosten upphört. Värmeälskande. Trivs på lucker, näringsrik jord. Gödslas och vattnas regelbundet. Kan med fördel odlas i kruka på terrass och balkong. Kan även odlas inomhus under växtlampa och i hydrokultur."
+              },
+              {
+              "id": 58,
+              "name": "Squash Verte Noire Maraichere",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/squash-verte-noire-maraichere.jpg",
+              "description": "Ger skörd redan efter ca 50 dagar. Ger fler frukter vid regelbunden skörd. Unga frukter passar till sallad och konservering. Används i wokade rätter, till gratäng, som zucchinipasta, ugnsbakade, grillade mm. Friterade blommor är en delikatess.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "60 cm",
+              "position": "Soligt",
+              "time": "Apr-Jun",
+              "depth": "1-2 cm",
+              "flower_distance": "70 cm",
+              "row_distance": "120 cm",
+              "harvest_time": "ca 60 dagar"
+              },
+              "gardening_tricks": "Förodlas inne eller i växthus i 8cm-krukor fyllda med såjord i miniväxthus. Sätt 1-2 frö i krukan. Klipp bort en om båda gror. Vid fyra blad plantera om i 12cm-kruka med odlingsjord. Sätts ut efter avvänjning när nattfrosten upphört. Värmeälskande. Trivs på lucker, näringsrik jord. Gödsla och vattna regelbundet. Kan odlas i kruka på terrass och balkong. Även för inomhusodling och hydrokultur under växtlampa. Ekologiskt odlat frö."
+              },
+              {
+              "id": 59,
+              "name": "Dill Common",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/dill-common.jpg",
+              "description": "En lättodlad, medeltidig sort som odlas både för blad och blomkronor. Bladen äts färska, kan torkas och frysförvaras. Kronor och skaft används för olika inläggningar. Odlas på friland eller i kruka. Även inomhus i soligt fönster eller under lampa.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "70 cm",
+              "position": "Sol/skugga",
+              "time": "Apr-Jun",
+              "depth": "1 cm",
+              "flower_distance": "3 cm",
+              "row_distance": "40 cm",
+              "harvest_time": "Aug-Okt"
+              },
+              "gardening_tricks": "Direktsås ute när jorden håller minst 10C eller inomhus från februari. Gror på 10-20 dagar. Håll jorden fuktig. Inomhus rekommenderas miniväxthus. Växtlampa vid tidig sådd och för odling inomhus. För kontinuerligt tillgång av bladdill så var 10:e dag. Trivs på mullrik jord och vattnas regelbundet. För krondill lämnas plantorna att blomma. Skördas mot slutet av blomningen. Kan även odlas i hydrokultur. Ekologiskt odlat frö."
+              },
+              {
+              "id": 60,
+              "name": "Citronbasilika Sweet Lemon",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/citronbasilika-sweet-lemon.jpg",
+              "description": "En basilika med tydlig citronsmak. Blommor och blad används färska eller torkade för en frisk basilika/citruskryddning i sallader och olika kött- och fiskrätter. Odlas främst i kruka utomhus sommartid och inomhus året om.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "25-30 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Apr/Året om",
+              "depth": "0-1 cm",
+              "flower_distance": "10 cm",
+              "row_distance": "10 cm",
+              "harvest_time": "Jul-Sep/Året om"
+              },
+              "gardening_tricks": "Basilika odlas på fönsterbrädan, ute i kruka eller på friland i varma lägen över 15 grader. Förodlas i rumstemperatur i såjord (under lampa för bäst resultat). Så 8-10 fröer i 8cm-kruka. Täck ej fröerna och håll fuktigt, gärna i miniväxthus. Grotid 10-15 dagar. Omplantera vid fyra blad till 12-15 cm kruka i odlingsjord. Tillsätt näring regelbundet. Vintertid krävs växtbelysning för bra odlingsresultat."
+              },
+              {
+              "id": 61,
+              "name": "Basilika Sweet Red Rubin",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/basilika-sweet-red-rubin.jpg",
+              "description": "En italiensk basilika med mörkt purpurfärgade blad som ger riklig skörd av stora, sötaktigt aromatiska blad. Färgen gör den extra användbar och dekorativ i sallader och som garnityr. Får vackra lavendelrosa blommor som uppskattas av pollinerare.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "30-40 cm",
+              "position": "Sol/halvskugga",
+              "time": "Mar-Apr/Året om",
+              "depth": "0-1 cm",
+              "flower_distance": "15 cm",
+              "row_distance": "15 cm",
+              "harvest_time": "Jul-Sep/Året om"
+              },
+              "gardening_tricks": "Basilika odlas på fönsterbrädan, ute i kruka eller på friland i varma lägen över 15 grader. Förodlas i rumstemperatur i såjord (under lampa för bäst resultat). Så 8-10 fröer i 8cm-kruka. Täck ej fröerna och håll fuktigt, gärna i miniväxthus. Grotid 10-15 dagar. Omplantera vid fyra blad till 12-15 cm kruka i odlingsjord. Tillsätt näring regelbundet. Vintertid krävs växtbelysning för bra odlingsresultat."
+              },
+              {
+              "id": 62,
+              "name": "Basilika Aromatica Della Riviera Ligure",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/basilika-aromatico-della-riviera-ligure.jpg",
+              "description": "Mycket användbar kryddväxt med aromatiska, smakrika blad. Används färsk och torkad. Passar till kyckling, kött- och fiskrätter och i salladen. Perfekt till olika tomaträtter och pesto. Odlas främst i kruka utomhus sommartid och inomhus året om.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "30 cm",
+              "position": "Soligt",
+              "time": "Feb-Jun/Året om",
+              "depth": "0-1 cm",
+              "flower_distance": "5 cm",
+              "row_distance": "25 cm",
+              "harvest_time": "ca 30 dagar"
+              },
+              "gardening_tricks": "Basilika odlas på fönsterbrädan, ute i kruka eller på friland i varma lägen över 15C. Förodlas i rumstemperatur i såjord (under lampa för bäst resultat). Så 8-10 fröer i 8cm-kruka. Täck ej fröerna och håll fuktigt, gärna i miniväxthus. Grotid 10-15 dagar. Omplantera vid fyra blad till 12-15 cm kruka i odlingsjord. Tillsätt näring regelbundet. Vintertid krävs växtbelysning för bra odlingsresultat. Ekologiskt odlat frö."
+              },
+              {
+              "id": 63,
+              "name": "Gräslök Allium Schoenoprasum",
+              "picture": "https://www.wexthuset.com/mygro/images/375px/graslok-allium-schoenoprasum.jpg",
+              "description": "En lättodlad flerårig kryddväxt som kan odlas både i kruka och på friland. Kan börja skördas tidigt på våren och ger skörd fram till vintern. Godast färsk men kan även frysas. Dekorativa, ätbara blommor. Vacker som kantväxt och i blomsterrabatten.",
+              "facts": {
+              "type": "Ettårig",
+              "height": "25-30 cm",
+              "position": "Sol/halvskugga",
+              "time": "Apr-Sep",
+              "depth": "1 cm",
+              "flower_distance": "1-2 cm",
+              "row_distance": "30 cm",
+              "harvest_time": "Maj-Okt"
+              },
+              "gardening_tricks": "Fröerna sås i grupp med någon centimeters avstånd en centimeter djupt direkt på växtplatsen från april och framåt eller förodlas inomhus från mars-april. Förodling kan göras i såjord eller odlingsjord. Vid förodling omplantera vid 5 cm höjd till 12cm-kruka eller på friland. Trivs i lätt till mullhaltig jord. Näringsvattna krukodlad planta. Inomhusodlas i soligt fönster eller under växtbelysning. Även lämplig för hydrokultur."
+              }
+              
+              
+              
+              ]
+    
+}
